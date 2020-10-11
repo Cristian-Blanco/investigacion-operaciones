@@ -1,5 +1,5 @@
 import sympy as sym
-from sympy import symbols
+from sympy import symbols, plot_implicit, And
 from sympy.plotting import plot
 
 #VARIABLES
@@ -33,7 +33,6 @@ def tercerFuncionMinimos(x,y):
     diccionario[p]= (x,y) #Guardamos el resultado y los valores x,y
     text = "x: "+str(x)+" y: "+str(y) #realizamos un texto para el usuario
     return text #retornamos el texto
-
 
 
 #Ejercicio de graficar Sistemas de Ecuaciones
