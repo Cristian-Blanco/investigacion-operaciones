@@ -1,674 +1,435 @@
 Programa_Academico,Numero_Matricula,Sexo,Edad,Estado_Civil,Valor_Matricula,Vive_Con_Padres,Cabeza_Familia,Num_Personas_A_Cargo,Estrato,Ingreso_Familiar_Mensual,Trabaja_Actualmente,Horas_Trabajadas,Educacion_Padre,Educacion_Madre,Ocupacion_Madre,Ocupacion_Padre,Pregunta1,Pregunta2,Pregunta3,Pregunta4,Pregunta5,Suma_Total,Rango_SWLS
-Licenciatura en Educación Infantil ,5,0,19,1,1,1,0,0,3,4,0,0,6,7,3,1,7,7,6,6,6,32,6
-Licenciatura en Física,6,1,20,1,1,1,0,0,3,3,0,0,7,6,2,3,7,7,7,6,5,32,6
-Tecnología en saneamiento ambiental,8,0,21,1,2,1,0,0,4,3,0,0,8,7,1,3,7,5,5,7,7,31,6
-Licenciatura en humanidades y lengua castellana,9,1,22,1,1,1,0,0,4,4,0,0,8,8,3,1,6,5,7,7,6,31,6
-Licenciatura en Ciencias Sociales,8,0,19,1,1,1,0,0,4,5,0,0,7,6,2,1,6,6,6,7,6,31,6
-Ingeniería electrónica,7,0,20,1,1,1,0,0,4,4,0,0,6,9,1,3,7,7,7,7,7,35,6
-Tecnología industrial,9,1,21,1,2,1,0,0,4,3,0,0,6,7,3,2,7,7,7,5,7,33,6
-Ingeniería topográfica,9,1,22,1,2,1,0,0,4,4,0,0,7,8,2,1,7,6,6,6,6,31,6
-Licenciatura  en Biología ,5,1,19,1,2,1,0,0,3,4,0,0,8,9,3,3,5,7,6,7,7,32,6
-Licenciatura en Educación Infantil ,8,0,20,1,1,1,0,0,3,3,0,0,8,6,1,3,6,7,7,7,6,33,6
-Ingeniería ambiental,6,0,21,1,2,1,0,0,4,5,0,0,9,9,2,1,7,7,6,6,6,32,6
-Ingeniería industrial,6,0,22,1,2,1,0,0,4,4,0,0,8,6,0,1,7,7,7,6,5,32,6
-Ingeniería industrial,5,0,19,1,1,1,0,0,4,3,0,0,7,8,0,3,7,5,5,7,7,31,6
-Tecnología en construcciones civiles,8,1,20,1,1,1,0,0,3,5,0,0,7,6,3,2,6,5,7,7,6,31,6
-Licenciatura en Ciencias Sociales,9,0,21,1,1,1,0,0,3,4,0,0,8,8,2,1,6,6,6,7,6,31,6
-Ingeniería de sistemas,6,1,22,1,2,1,0,0,4,4,0,0,7,6,1,3,7,7,7,7,7,35,6
-Ingeniería de sistemas,7,0,19,1,2,1,0,0,4,3,0,0,7,6,2,3,7,7,7,5,7,33,6
-Ingeniería Eléctrica,8,1,20,1,1,1,0,0,4,3,0,0,6,6,3,1,7,6,6,6,6,31,6
-Licenciatura en Química,8,0,21,1,1,1,0,0,4,4,0,0,7,8,0,1,5,7,6,7,7,32,6
-Tecnología en saneamiento ambiental,6,0,22,1,2,1,0,0,4,5,0,0,9,7,3,3,6,7,7,7,6,33,6
-Ingeniería Catastral y Geodesia,5,1,21,1,2,1,0,0,4,5,0,0,8,9,2,2,7,7,6,6,6,32,6
-Licenciatura en educación artística,7,1,22,1,2,1,0,0,3,3,0,0,7,8,1,1,7,7,7,6,5,32,6
-Ingeniería de sistemas,5,0,19,1,1,1,0,0,3,4,0,0,6,8,3,3,7,5,5,7,7,31,6
-Tecnología en gestión ambiental y servicios públicos ,8,1,20,1,1,1,0,0,4,5,0,0,8,7,2,3,6,5,7,7,6,31,6
-Ingeniería industrial,8,0,21,1,1,1,0,0,4,4,0,0,9,6,1,1,6,6,6,7,6,31,6
-Ingeniería Catastral y Geodesia,9,0,22,1,2,1,0,0,4,4,0,0,8,7,3,1,7,7,7,7,7,35,6
-Licenciatura  en Biología ,7,0,19,1,1,1,0,0,3,3,0,0,9,9,2,3,7,7,7,5,7,33,6
-Ingeniería Catastral y Geodesia,5,0,20,1,2,1,0,0,3,5,0,0,8,8,3,2,7,6,6,6,6,31,6
-Tecnología en sistematizacion de datos,5,1,21,1,1,1,0,0,4,4,0,0,7,9,1,1,5,7,6,7,7,32,6
-Licenciatura en Educación Infantil ,7,0,22,1,2,1,0,0,4,4,0,0,7,9,2,3,6,7,7,7,6,33,6
-Ingeniería mecánica,8,1,21,1,1,1,0,0,4,3,0,0,6,7,0,3,7,7,6,6,6,32,6
-Ingeniería ambiental,6,0,22,1,1,1,0,0,4,3,0,0,8,8,0,1,7,7,7,6,5,32,6
-Ingeniería de sistemas,6,1,19,1,1,1,0,0,4,4,0,0,8,8,3,1,7,5,5,7,7,31,6
-Ingeniería topográfica,6,0,20,1,1,1,0,0,4,5,0,0,6,9,2,3,6,5,7,7,6,31,6
-Ingeniería electrónica,7,1,21,1,1,1,0,0,3,5,0,0,8,6,1,2,6,6,6,7,6,31,6
-Licenciatura  en Biología ,8,0,22,1,2,1,0,0,3,3,0,0,6,6,2,1,7,7,7,7,7,35,6
-Licenciatura en educación artística,5,0,19,1,1,1,0,0,4,4,0,0,7,8,3,3,7,7,7,5,7,33,6
-Licenciatura  en Biología ,9,1,20,1,2,1,0,0,4,5,0,0,7,8,0,3,7,6,6,6,6,31,6
 Comunicación social y periodismo,7,0,21,1,1,1,0,0,4,4,0,0,8,9,2,1,5,7,6,7,7,32,6
-Tecnología en electrónica,4,0,22,1,2,1,0,0,4,4,0,0,7,7,1,1,6,7,7,7,6,33,6
-Licenciatura en Educación Infantil ,6,1,21,1,2,1,0,0,3,3,0,0,6,7,0,3,6,6,6,6,6,30,6
-Licenciatura en Educación Infantil ,6,0,18,1,2,1,0,0,4,4,0,0,8,7,3,2,6,7,7,6,5,31,6
-Licenciatura en educación artística,6,1,21,1,2,1,0,0,3,3,0,0,5,6,2,3,7,4,5,6,6,28,5
-Ingeniería ambiental,5,1,22,1,2,1,0,0,3,4,0,0,6,5,2,1,6,4,5,7,6,28,5
-Licenciatura en Educación Infantil ,6,1,18,1,2,1,0,0,3,3,0,0,7,8,2,5,6,6,5,4,6,27,5
-Ingeniería electrónica,4,1,22,1,2,1,0,0,2,2,0,0,8,7,3,3,4,5,5,5,6,25,5
-Ingeniería Sanitaria ,4,1,21,1,2,1,0,0,4,5,0,0,6,7,1,3,5,5,5,5,5,25,5
-Ingeniería electrónica,6,0,18,1,2,1,0,0,3,4,0,0,5,7,2,5,5,6,6,6,5,28,5
-Ingeniería Forestal,6,0,22,1,2,1,0,0,2,1,0,0,7,5,3,1,7,6,5,5,5,28,5
-Ingeniería de sistemas,4,0,21,1,2,0,0,0,2,1,1,4,6,6,2,5,5,6,4,4,6,25,5
-Licenciatura en Ciencias Sociales,5,1,23,1,2,1,0,0,3,4,1,4,8,8,3,3,3,6,7,5,4,25,5
-Ingeniería de sistemas,4,1,22,1,1,1,0,0,3,3,0,0,5,5,3,1,7,4,5,6,6,28,5
-Ingeniería telemática,4,1,23,1,2,1,1,1,2,2,1,4,5,6,2,3,6,4,5,7,6,28,5
-Licenciatura  en Biología ,4,0,23,1,2,1,0,0,3,2,0,0,7,8,3,1,6,6,5,4,6,27,5
-Licenciatura en Química,6,1,22,1,2,1,0,0,3,2,0,0,6,7,2,5,4,5,5,5,6,25,5
-Licenciatura en educación artística,4,1,18,1,2,1,0,0,2,4,0,0,8,7,2,3,5,5,5,5,5,25,5
-Ingeniería producción ,4,1,18,1,1,1,0,0,3,3,0,0,5,5,3,3,5,6,6,6,5,28,5
-Ingeniería industrial,4,1,18,1,1,0,0,0,4,5,0,0,6,7,1,5,7,6,5,5,5,28,5
-Licenciatura en Educación Infantil ,5,1,22,1,1,1,0,0,2,3,0,0,7,8,3,1,5,6,4,4,6,25,5
-Licenciatura en matemáticas,5,0,22,1,2,1,0,0,3,3,0,0,8,8,2,5,3,6,7,5,4,25,5
-Ingeniería industrial,4,0,23,1,2,1,0,0,4,6,0,0,6,6,1,3,7,4,5,6,6,28,5
-Ingeniería Forestal,5,1,22,1,2,1,0,0,2,2,1,4,5,7,3,1,6,4,5,7,6,28,5
-Ingeniería Catastral y Geodesia,4,0,18,1,2,1,0,0,2,1,0,0,7,7,2,3,6,6,5,4,6,27,5
-Ingeniería industrial,4,1,22,1,2,1,0,0,3,3,0,0,5,5,3,1,4,5,5,5,6,25,5
-Licenciatura en humanidades y lengua castellana,6,1,23,1,2,1,0,0,2,2,1,1,7,7,2,5,5,5,5,5,5,25,5
-Tecnología industrial,5,1,18,1,2,1,0,0,2,3,0,0,5,6,2,3,5,6,6,6,5,28,5
-Licenciatura en matemáticas,6,0,21,1,1,1,0,0,2,2,1,10,6,5,3,3,7,6,5,5,5,28,5
-Ingeniería electrónica,5,0,21,1,2,1,0,0,4,5,0,0,7,6,3,5,5,6,4,4,6,25,5
-Licenciatura en educación artística,5,0,21,1,2,1,0,0,2,3,0,0,8,8,2,1,3,6,7,5,4,25,5
-Tecnología en gestión de la producción industrial,3,1,22,3,3,1,0,0,2,3,0,0,3,3,2,1,4,4,5,4,5,22,4
-Licenciatura en Educación Infantil ,3,0,21,1,3,1,0,0,4,5,0,0,4,4,5,8,5,5,4,5,4,23,4
-Tecnología en electrónica,3,1,22,1,3,1,0,0,3,4,0,0,5,6,2,1,6,7,3,2,4,22,4
-Ingeniería ambiental,3,1,23,1,2,1,0,0,3,4,0,0,6,4,5,2,4,5,6,2,4,21,4
-Ingeniería ambiental,3,1,21,3,3,1,0,0,4,4,1,4,5,3,2,2,4,5,4,4,4,21,4
-Tecnología en gestión ambiental y servicios públicos ,2,1,22,3,3,1,0,0,4,4,1,8,4,4,1,2,5,4,5,5,5,24,4
-Licenciatura en Química,3,0,23,1,2,1,0,0,4,5,0,0,3,5,1,7,7,6,7,2,1,23,4
-Ingeniería electrónica,3,0,23,1,3,1,1,1,4,5,1,8,4,4,1,2,5,4,4,7,2,22,4
-Licenciatura en educación artística,2,0,22,1,2,1,0,0,3,3,0,0,4,3,6,7,2,5,7,7,1,22,4
-Tecnología en saneamiento ambiental,3,0,22,3,3,1,0,0,4,4,0,0,5,3,5,6,2,3,4,5,6,20,4
-Ingeniería Catastral y Geodesia,3,1,21,1,3,1,0,0,4,5,1,8,5,4,1,2,4,4,5,4,5,22,4
-Licenciatura en humanidades y lengua castellana,3,1,22,1,3,1,1,2,4,6,1,4,4,5,1,7,5,5,4,5,4,23,4
-Licenciatura en educación artística,2,1,21,1,2,1,0,0,2,1,0,0,3,3,6,6,6,7,3,2,4,22,4
-Licenciatura en inglés ,3,0,22,3,3,1,0,0,2,1,0,0,4,5,5,5,4,5,6,2,4,21,4
 Comunicación social y periodismo,3,1,23,3,3,1,0,0,4,4,0,0,5,6,1,6,4,5,4,4,4,21,4
-Ingeniería de sistemas,3,0,21,1,2,1,0,0,2,2,0,0,4,4,2,8,5,4,5,5,5,24,4
-Ingeniería Forestal,3,0,22,1,3,1,0,0,4,4,0,0,4,3,6,7,7,6,7,2,1,23,4
-Licenciatura en humanidades y lengua castellana,2,0,23,1,2,1,0,0,2,1,1,6,5,4,2,7,5,4,4,7,2,22,4
-Ingeniería en Telemática ,3,1,23,3,3,1,1,1,3,3,1,10,3,6,5,8,2,5,7,7,1,22,4
-Licenciatura  en Biología ,2,1,22,1,3,0,0,0,3,2,0,0,3,3,2,7,2,3,4,5,6,20,4
-Licenciatura  en Biología ,3,1,22,1,3,0,0,0,2,2,0,0,4,3,6,5,4,4,5,4,5,22,4
-Ingeniería de sistemas,2,0,21,1,2,0,0,0,2,3,0,0,5,4,2,2,5,5,4,5,4,23,4
-Ingeniería Catastral y Geodesia,3,0,23,3,3,1,0,0,2,2,0,0,5,6,5,7,6,7,3,2,4,22,4
-Licenciatura en humanidades y lengua castellana,3,1,22,3,3,1,0,0,2,2,0,0,5,5,2,8,4,5,6,2,4,21,4
-Licenciatura en matemáticas,2,0,22,1,2,1,0,0,4,5,0,0,5,4,6,7,4,5,4,4,4,21,4
-Ingeniería Eléctrica,2,0,21,1,3,1,0,0,2,1,0,0,6,5,5,7,5,4,5,5,5,24,4
-Ingeniería de sistemas,2,1,23,1,2,1,0,0,3,3,0,0,5,6,6,6,7,6,7,2,1,23,4
-Tecnología en gestión de la producción industrial,3,0,22,3,3,1,0,0,2,3,0,0,5,6,5,5,5,4,4,7,2,22,4
-Ingeniería de producción,2,1,23,1,3,1,0,0,3,4,0,0,4,3,6,2,2,5,7,7,1,22,4
-Licenciatura en inglés ,3,1,22,1,3,1,0,0,2,2,0,0,5,5,5,7,2,3,4,5,6,20,4
-Ingeniería Catastral y Geodesia,3,1,23,1,2,1,0,0,1,2,0,0,4,5,6,2,3,4,3,3,4,17,3
-Licenciatura en humanidades y lengua castellana,12,1,26,2,3,1,0,0,5,6,0,0,4,8,6,8,5,2,7,2,1,17,3
-Tecnología industrial,3,1,18,2,3,0,0,0,6,6,0,0,5,7,7,8,6,5,4,2,1,18,3
-Ingeniería Forestal,4,0,17,2,1,0,0,0,6,6,0,0,4,7,8,0,5,5,1,2,6,19,3
-Licenciatura en Química,12,0,27,3,3,0,0,0,5,5,0,0,4,7,6,8,3,4,5,6,1,19,3
-Ingeniería de sistemas,6,0,20,2,3,1,1,1,1,2,1,9,4,5,7,9,1,1,2,7,7,18,3
-Licenciatura  en Biología ,11,1,25,1,4,0,0,0,5,6,0,0,1,6,6,10,5,4,4,1,1,15,3
-Licenciatura en humanidades y lengua castellana,10,1,25,2,3,1,0,0,1,2,0,0,2,5,7,9,3,4,5,2,1,15,3
-Licenciatura en humanidades y lengua castellana,4,1,19,1,2,1,1,1,1,2,1,8,2,5,6,8,7,5,2,2,1,17,3
-Licenciatura en Química,6,1,19,1,3,1,1,1,6,6,1,9,3,7,7,10,2,2,3,6,6,19,3
-Licenciatura en matemáticas,3,0,17,1,4,1,1,1,1,2,1,8,3,4,6,11,3,4,3,3,4,17,3
-Licenciatura  en Biología ,12,0,26,1,0,1,1,2,1,1,1,12,2,2,8,7,5,2,7,2,1,17,3
-Licenciatura  en Biología ,3,0,18,2,0,1,0,0,1,1,0,0,2,4,7,11,6,5,4,2,1,18,3
-Ingeniería de sistemas,4,0,17,2,4,1,0,0,1,1,0,0,4,2,6,11,5,5,1,2,6,19,3
-Ingeniería topográfica,4,0,18,1,3,1,0,0,1,1,0,0,2,4,7,9,3,4,5,6,1,19,3
-Licenciatura en educación artística,6,0,20,1,3,1,1,2,1,2,1,9,3,4,6,7,1,1,2,7,7,18,3
-Ingeniería electrónica,11,1,25,2,1,1,1,1,6,6,1,8,2,7,7,0,5,4,4,1,1,15,3
-Tecnología en saneamiento ambiental,10,1,24,3,3,1,1,1,1,2,1,12,2,2,10,10,3,4,5,2,1,15,3
-Ingeniería industrial,11,1,26,3,4,0,1,1,5,5,1,9,1,7,11,11,7,5,2,2,1,17,3
-Licenciatura en educación artística,6,1,23,3,3,1,0,0,1,2,0,0,2,1,10,9,2,2,3,6,6,19,3
-Ingeniería Catastral y Geodesia,3,1,19,1,3,1,1,1,1,1,1,8,3,2,7,10,3,4,3,3,4,17,3
-Ingeniería de sistemas,11,1,26,2,3,1,1,1,1,2,1,12,2,5,10,11,5,2,7,2,1,17,3
-Ingeniería de sistemas,6,0,20,1,4,1,0,0,5,5,0,0,3,7,6,10,6,5,4,2,1,18,3
-Ingeniería de sistemas,10,0,25,1,0,1,0,0,1,2,0,0,3,4,7,11,5,5,1,2,6,19,3
 Comunicación social y periodismo,4,1,19,1,0,1,0,0,1,2,0,0,1,1,10,9,3,4,5,6,1,19,3
-Ingeniería industrial,6,0,18,3,3,1,0,0,1,2,1,9,3,1,7,10,1,1,2,7,7,18,3
-Licenciatura en Química,11,1,25,3,3,1,0,0,6,6,0,0,2,8,6,0,5,4,4,1,1,15,3
-Licenciatura  en Biología ,12,1,26,2,4,1,0,0,1,2,1,8,2,5,7,10,3,4,5,2,1,15,3
-Ingeniería ambiental,4,0,18,1,3,1,0,0,6,6,0,0,1,6,8,0,7,5,2,2,1,17,3
-Licenciatura en humanidades y lengua castellana,1,1,18,3,3,1,0,0,1,2,0,0,3,5,7,9,2,2,3,6,6,19,3
-Ingeniería Catastral y Geodesia,13,0,27,1,0,1,0,0,1,0,0,0,0,1,9,9,2,4,2,3,2,13,2
-Ingeniería industrial,13,1,25,3,3,1,0,0,5,6,0,0,1,7,10,10,4,5,2,1,1,13,2
-Ingeniería electrónica,13,0,26,3,3,0,1,1,5,6,1,22,2,7,11,8,1,1,2,2,4,10,2
-Licenciatura en Ciencias Sociales,13,0,26,3,0,0,1,1,6,6,1,20,3,8,9,9,3,1,1,2,4,11,2
-Ingeniería Sanitaria ,13,0,24,2,4,0,0,0,6,6,0,0,0,7,10,8,5,1,2,2,3,13,2
-Licenciatura en Ciencias Sociales,12,1,26,2,3,1,0,0,1,0,1,16,1,1,10,11,4,2,3,2,2,13,2
-Licenciatura en Ciencias Sociales,1,1,18,2,4,1,1,1,1,1,1,12,2,2,11,9,2,1,2,3,4,12,2
-Licenciatura  en Biología ,1,1,19,3,0,0,1,1,1,0,1,20,3,4,9,8,5,3,2,2,2,14,2
-Licenciatura en Física,11,0,25,2,3,0,0,0,5,5,0,0,0,6,9,11,1,2,2,3,4,12,2
-Licenciatura en inglés ,2,0,19,2,3,0,0,0,5,6,0,0,1,8,9,8,5,6,1,1,1,14,2
-Ingeniería electrónica,2,0,19,2,0,1,1,1,1,1,1,16,2,3,9,11,2,4,2,3,2,13,2
-Ingeniería de sistemas,13,0,24,2,4,1,1,1,6,6,1,12,3,8,10,0,4,5,2,1,1,13,2
-Ingeniería electrónica,1,0,18,2,3,0,0,0,6,6,0,0,0,8,11,0,1,1,2,2,4,10,2
-Ingeniería Catastral y Geodesia,2,0,19,2,4,0,0,0,5,5,0,0,1,6,9,11,3,1,1,2,4,11,2
-Ingeniería topográfica,2,1,19,3,0,1,1,1,1,0,1,20,2,5,10,8,5,1,2,2,3,13,2
-Tecnología en saneamiento ambiental,1,0,25,3,3,1,0,0,1,1,0,0,3,4,11,11,4,2,3,2,2,13,2
-Ingeniería de sistemas,11,1,26,3,3,1,0,0,5,5,0,0,0,8,9,9,2,1,2,3,4,12,2
-Ingeniería Catastral y Geodesia,2,1,19,2,0,0,1,1,1,0,1,16,1,2,10,8,5,3,2,2,2,14,2
-Tecnología en sistematizacion de datos,2,0,25,2,4,0,1,1,5,5,1,12,2,7,11,11,1,2,2,3,4,12,2
-Licenciatura en educación artística,13,1,26,1,3,1,0,0,5,6,0,0,3,6,9,11,5,6,1,1,1,14,2
-Ingeniería industrial,1,1,24,3,4,1,0,0,1,0,1,20,0,4,10,10,2,4,2,3,2,13,2
-Licenciatura  en Biología ,2,1,23,2,0,1,1,1,1,2,1,16,1,3,11,9,4,5,2,1,1,13,2
-Ingeniería Catastral y Geodesia,2,0,26,2,3,1,1,1,6,6,1,12,2,7,9,0,1,1,2,2,4,10,2
-Licenciatura en inglés ,1,0,18,2,3,0,0,0,6,6,0,0,3,8,10,0,3,1,1,2,4,11,2
-Ingeniería industrial,11,0,26,1,0,0,0,0,1,2,1,22,0,3,11,10,5,1,2,2,3,13,2
-Ingeniería ambiental,2,1,25,1,4,1,1,1,6,6,1,16,1,7,9,9,4,2,3,2,2,13,2
-Ingeniería civil,2,0,26,1,3,1,1,1,1,0,1,12,2,4,10,11,2,1,2,3,4,12,2
-Licenciatura en Química,13,0,24,3,4,0,0,0,5,6,0,0,3,8,11,9,5,3,2,2,2,14,2
-Licenciatura en humanidades y lengua castellana,1,0,23,3,0,1,0,0,1,0,0,0,2,3,9,10,1,2,2,3,4,12,2
-Ingeniería Catastral y Geodesia,12,1,26,2,3,1,0,0,1,1,1,20,0,4,10,11,5,6,1,1,1,14,2
-Ingeniería ambiental,1,0,20,2,0,0,0,0,1,1,1,12,0,1,9,9,4,1,2,1,1,9,1
-Licenciatura en Educación Infantil ,13,1,15,2,3,0,1,1,5,5,1,16,0,8,8,0,3,2,1,1,2,9,1
-Ingeniería industrial,12,1,26,2,0,0,1,1,1,2,1,16,0,1,10,11,2,1,1,1,2,7,1
-Ingeniería en Telemática ,13,0,26,2,0,0,1,1,1,1,1,16,1,4,9,9,3,2,1,1,2,9,1
-Ingeniería ambiental,12,1,25,2,3,0,1,1,1,0,1,16,0,2,8,11,1,2,1,3,1,8,1
-Ingeniería Catastral y Geodesia,1,1,19,2,3,0,1,1,1,1,1,16,1,1,10,9,2,1,1,2,1,7,1
-Ingeniería Forestal,1,1,20,1,3,0,1,1,6,6,1,20,0,8,9,0,2,1,1,2,1,7,1
-Ingeniería de sistemas,13,0,25,2,4,0,1,1,1,2,1,20,1,3,10,11,3,2,1,1,1,8,1
-Ingeniería de sistemas,12,1,26,2,4,0,0,0,1,0,0,0,1,2,10,9,1,1,2,3,2,9,1
-Licenciatura  en Biología ,13,1,25,2,0,1,0,0,1,1,1,12,1,2,10,11,2,1,2,1,2,8,1
-Ingeniería industrial,13,1,24,2,0,1,0,0,1,0,0,0,0,4,10,9,1,2,2,1,1,7,1
-Licenciatura  en Biología ,13,0,26,2,3,1,1,2,5,6,1,16,0,7,9,0,2,2,2,2,1,9,1
-Licenciatura en educación artística,12,0,25,2,3,0,1,2,1,1,1,16,0,5,10,11,4,1,2,1,1,9,1
-Licenciatura en humanidades y lengua castellana,12,1,24,1,4,0,1,1,1,2,1,16,1,1,10,9,3,2,1,1,2,9,1
-Ingeniería ambiental,12,1,26,2,0,0,1,1,1,0,1,20,1,3,10,11,2,1,1,1,2,7,1
-Tecnología industrial,1,1,20,2,3,0,1,1,1,1,1,20,0,1,10,10,3,2,1,1,2,9,1
-Licenciatura en Educación Infantil ,12,1,26,2,0,0,0,0,1,2,1,16,1,2,10,8,1,2,1,3,1,8,1
-Tecnología industrial,12,0,24,3,0,1,0,0,6,6,0,0,9,8,9,0,2,1,1,2,1,7,1
-Licenciatura en Educación Infantil ,12,1,25,2,3,1,1,1,1,0,1,16,0,5,8,8,2,1,1,2,1,7,1
-Ingeniería Catastral y Geodesia,13,1,25,3,0,0,1,1,1,2,1,12,1,5,10,9,3,2,1,1,1,8,1
-Licenciatura  en Biología ,12,0,26,1,0,1,0,0,1,3,0,0,1,5,10,10,1,1,2,3,2,9,1
-Ingeniería Catastral y Geodesia,13,1,25,2,3,0,1,1,1,1,1,16,0,2,10,9,2,1,2,1,2,8,1
-Licenciatura en humanidades y lengua castellana,12,1,24,3,3,0,0,0,1,2,1,16,0,3,9,10,1,2,2,1,1,7,1
-Ingeniería electrónica,1,1,19,2,3,0,1,1,5,6,1,16,0,6,10,8,2,2,2,2,1,9,1
-Ingeniería Forestal,13,1,26,3,4,0,0,0,1,0,1,20,1,5,10,10,4,1,2,1,1,9,1
-Licenciatura  en Biología ,1,0,20,3,4,1,1,1,1,2,1,20,1,2,10,11,3,2,1,1,2,9,1
-Licenciatura en humanidades y lengua castellana,12,0,26,2,0,0,0,0,1,1,1,16,1,1,8,9,2,1,1,1,2,7,1
-Ingeniería de sistemas,1,1,19,3,0,0,1,1,6,6,1,12,0,8,9,8,3,2,1,1,2,9,1
-Ingeniería industrial,13,0,26,3,3,0,1,2,1,2,1,12,0,5,10,10,1,2,1,3,1,8,1
-Licenciatura en Ciencias Sociales,12,1,24,2,3,0,1,0,1,1,1,16,1,1,10,11,2,1,1,2,1,7,1
-Ingeniería electrónica,13,0,25,2,4,0,1,1,1,2,1,20,9,4,11,9,2,1,1,2,1,7,1
-Licenciatura en humanidades y lengua castellana,12,1,26,2,0,1,1,1,5,5,1,16,1,6,9,10,3,2,1,1,1,8,1
-Licenciatura  en Biología ,1,1,20,2,3,0,1,1,1,2,1,16,0,5,10,11,1,1,2,3,2,9,1
-Licenciatura en Educación Infantil ,12,1,26,3,0,0,0,0,1,2,1,20,9,5,11,11,2,1,2,1,2,8,1
-Ingeniería Catastral y Geodesia,12,0,25,2,3,1,1,1,1,1,1,20,1,5,10,9,1,2,2,1,1,7,1
-Ingeniería de sistemas,1,0,20,1,3,1,1,1,1,0,1,16,0,4,10,10,2,2,2,2,1,9,1
-Ingeniería Forestal,13,0,26,1,3,1,1,1,1,0,1,12,0,3,9,8,2,4,3,2,2,13,2
-Licenciatura en humanidades y lengua castellana,1,0,24,1,3,1,1,1,1,2,1,16,1,4,10,11,3,2,3,3,2,13,2
-Ingeniería industrial,2,1,23,3,0,0,0,0,1,1,1,16,2,5,11,9,2,2,2,3,3,12,2
-Tecnología en gestión de la producción industrial,2,0,26,3,4,1,0,0,1,2,1,16,3,3,9,8,2,4,4,2,2,14,2
-Ingeniería de sistemas,4,1,19,1,1,1,0,0,3,1,0,0,7,6,10,11,4,5,6,6,6,27,5
-Ingeniería de sistemas,12,1,26,2,0,1,1,1,5,5,1,16,1,6,9,10,3,2,1,1,1,8,1
-Licenciatura  en Biología ,1,1,20,2,3,0,1,1,1,2,1,16,0,5,10,11,1,1,2,3,2,9,1
-Ingeniería de sistemas,12,1,26,3,0,0,0,0,1,2,1,20,9,5,11,11,2,1,2,1,2,8,1
-Ingeniería de sistemas,12,0,25,2,3,1,1,1,1,1,1,20,1,5,10,9,1,2,2,1,1,7,1
-Licenciatura en humanidades y lengua castellana,1,0,20,1,3,1,1,1,1,0,1,16,0,4,10,10,2,2,2,2,1,9,1
-Ingeniería Catastral y Geodesia,13,0,26,1,3,1,1,1,1,0,1,12,0,3,9,8,2,4,3,2,2,13,2
-Ingeniería industrial,1,0,24,1,3,1,1,1,1,2,1,16,1,4,10,11,3,2,3,3,2,13,2
-Licenciatura  en Biología ,2,1,23,3,0,0,0,0,1,1,1,16,2,5,11,9,2,2,2,3,3,12,2
-Tecnología en sistematizacion de datos,2,0,26,3,4,1,0,0,1,2,1,16,3,3,9,8,2,4,4,2,2,14,2
-Licenciatura en educación artística,12,1,26,2,0,1,1,1,5,5,1,16,1,6,9,10,3,2,1,1,1,8,1
-Licenciatura en humanidades y lengua castellana,1,1,20,2,3,0,1,1,1,2,1,16,0,5,10,11,1,1,2,3,2,9,1
-Ingeniería civil,12,1,26,3,0,0,0,0,1,2,1,20,9,5,11,11,2,1,2,1,2,8,1
-Ingeniería Sanitaria ,12,0,25,2,3,1,1,1,1,1,1,20,1,5,10,9,1,2,2,1,1,7,1
-Ingeniería ambiental,1,0,20,1,3,1,1,1,1,0,1,16,0,4,10,10,2,2,2,2,1,9,1
-Tecnología en saneamiento ambiental,13,0,26,1,3,1,1,1,1,0,1,12,0,3,9,8,2,4,3,2,2,13,2
-Ingeniería topográfica,1,0,24,1,3,1,1,1,1,2,1,16,1,4,10,11,3,2,3,3,2,13,2
-Ingeniería civil,2,1,23,3,0,0,0,0,1,1,1,16,2,5,11,9,2,2,2,3,3,12,2
-Ingeniería Catastral y Geodesia,2,0,26,3,4,1,0,0,1,2,1,16,3,3,9,8,2,4,4,2,2,14,2
-Tecnología en saneamiento ambiental,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Tecnología en gestión ambiental y servicios públicos ,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Tecnología en electrónica,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Licenciatura en Ciencias Sociales,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
-Ingeniería de sistemas,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
-Ingeniería Catastral y Geodesia,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Ingeniería ambiental,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Ingeniería Catastral y Geodesia,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
-Ingeniería de sistemas,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
-Licenciatura en humanidades y lengua castellana,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Licenciatura en inglés ,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Licenciatura en Ciencias Sociales,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
-Licenciatura en Ciencias Sociales,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
-Ingeniería industrial,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Licenciatura en humanidades y lengua castellana,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Ingeniería de sistemas,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Ingeniería electrónica,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Ingeniería Forestal,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Ingeniería de sistemas,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
 Comunicación social y periodismo,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura en Química,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Tecnología en construcciones civiles,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Ingeniería electrónica,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Ingeniería Forestal,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura  en Biología ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Licenciatura en Educación Infantil ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Ingeniería industrial,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura en educación artística,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Ingeniería de sistemas,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura en Química,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Licenciatura en humanidades y lengua castellana,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Licenciatura en humanidades y lengua castellana,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Ingeniería ambiental,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Licenciatura  en Biología ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería de sistemas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Licenciatura  en Biología ,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Licenciatura en Educación Infantil ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Ingeniería de sistemas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería ambiental,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Tecnología en saneamiento ambiental,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Licenciatura en humanidades y lengua castellana,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Licenciatura  en Biología ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Tecnología en saneamiento ambiental,2,1,20,1,3,1,0,0,3,2,0,0,8,8,3,11,4,4,4,3,1,16,3
-Licenciatura en matemáticas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Tecnología en gestión de la producción industrial,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería ambiental,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería de sistemas,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Licenciatura en educación artística,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Licenciatura en educación artística,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería electrónica,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería electrónica,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería de sistemas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería electrónica,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería electrónica,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería Forestal,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Licenciatura en matemáticas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Licenciatura  en Biología ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Licenciatura  en Biología ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Ingeniería de sistemas,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Ingeniería electrónica,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Ingeniería industrial,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Ingeniería industrial,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Ingeniería Catastral y Geodesia,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Ingeniería ambiental,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Tecnología en construcciones civiles,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Ingeniería electrónica,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Ingeniería industrial,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Licenciatura en matemáticas,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Ingeniería ambiental,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Licenciatura en Educación Infantil ,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura  en Biología ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura en matemáticas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Ingeniería industrial,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Ingeniería de producción,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Ingeniería electrónica,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Ingeniería de sistemas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en física,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Ingeniería de sistemas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Ingeniería Sanitaria ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura  en Biología ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en humanidades y lengua castellana,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Ingeniería industrial,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura en Educación Infantil ,12,0,22,1,1,1,0,0,2,2,1,20,4,4,2,2,3,5,3,5,1,17,3
-Tecnología en saneamiento ambiental,6,0,20,1,1,1,0,0,2,1,1,20,9,4,8,3,4,5,3,4,3,19,3
-Licenciatura en Química,10,0,26,1,1,1,0,0,2,0,1,20,4,3,5,6,3,2,3,7,4,19,3
-Ingeniería Eléctrica,6,0,19,1,2,1,0,0,2,1,0,0,0,6,2,11,3,4,2,3,3,15,3
-Licenciatura en Química,3,0,24,3,1,0,1,1,3,1,1,20,1,4,5,11,7,2,6,6,6,27,5
-Ingeniería industrial,4,0,20,1,1,0,0,0,3,1,1,20,0,4,5,11,6,7,6,5,1,25,5
-Tecnología en sistematizacion de datos,3,0,18,1,1,1,0,0,2,0,0,0,3,4,2,11,1,2,2,4,6,15,3
-Licenciatura en Educación Infantil ,3,0,21,1,2,0,0,0,1,0,1,20,7,4,10,11,2,3,1,1,6,13,2
-Ingeniería Forestal,5,1,22,1,1,1,0,0,2,1,0,0,1,3,5,10,5,7,4,5,1,22,4
-Ingeniería Sanitaria ,8,0,22,1,1,1,0,0,2,1,1,20,4,4,10,10,3,4,6,7,7,27,5
-Licenciatura en humanidades y lengua castellana,7,0,23,1,1,0,0,0,2,0,0,0,0,4,6,11,4,2,5,6,2,19,3
 Comunicación social y periodismo,6,1,23,1,1,1,0,0,2,1,0,0,1,1,2,2,5,4,4,3,1,17,3
 Comunicación social y periodismo,8,0,21,1,1,1,0,0,2,1,0,0,3,6,2,8,4,7,6,5,2,24,4
-Licenciatura  en Biología ,10,0,22,1,1,1,0,0,3,1,1,6,4,6,10,3,3,4,5,5,4,21,4
-Tecnología en gestión de la producción industrial,14,1,27,1,1,0,0,0,2,1,1,20,0,5,8,11,5,4,6,6,4,25,5
-Ingeniería Forestal,8,0,22,1,0,1,0,0,2,3,1,20,3,6,5,11,4,3,5,2,1,15,3
-Ingeniería Forestal,14,1,23,1,1,1,0,0,2,1,1,8,3,4,5,7,3,3,2,4,1,13,2
-Licenciatura  en Biología ,8,0,21,1,1,1,0,0,1,1,1,8,5,5,5,3,2,1,1,1,1,6,1
-Tecnología en electrónica,10,1,23,1,1,1,0,0,2,1,0,0,2,1,2,2,4,5,3,4,2,18,3
-Tecnología en construcciones civiles,10,0,21,1,1,1,0,0,2,2,1,12,7,9,6,11,4,4,4,4,3,19,3
-Licenciatura en Ciencias Sociales,9,1,24,1,1,1,0,0,2,2,1,8,9,2,10,3,6,6,5,6,5,28,5
-Licenciatura  en Biología ,11,0,23,1,1,0,1,1,2,0,1,8,3,6,10,8,4,4,5,5,3,21,4
-Ingeniería industrial,9,0,21,1,1,1,0,0,3,0,1,20,7,0,11,2,5,5,5,5,7,27,5
-Ingeniería industrial,1,0,20,1,2,1,0,0,3,0,0,0,8,4,2,5,6,6,7,5,7,31,6
-Ingeniería de sistemas,3,1,22,1,1,1,1,1,2,0,0,0,0,4,5,11,4,4,5,5,7,25,5
-Licenciatura en Química,8,1,21,3,0,1,0,0,2,0,0,0,0,4,11,11,7,7,7,7,7,35,6
-Tecnología en gestión ambiental y servicios públicos ,4,1,25,1,1,1,0,0,3,1,0,0,3,3,2,2,1,2,1,1,1,6,1
-Ingeniería de sistemas,9,0,22,1,1,1,0,0,2,0,0,0,4,1,7,10,5,4,5,5,3,22,4
-Ingeniería electrónica,4,0,20,1,1,0,1,1,2,1,1,20,0,7,8,11,3,3,3,3,1,13,2
+Comunicación social y periodismo,1,1,19,1,1,1,0,0,1,0,0,0,2,4,10,10,4,6,6,5,7,28,5
+Comunicación social y periodismo,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Comunicación social y periodismo,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Comunicación social y periodismo,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Comunicación social y periodismo,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Comunicación social y periodismo,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Comunicación social y periodismo,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Comunicación social y periodismo,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Comunicación social y periodismo,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería ambiental,6,0,21,1,2,1,0,0,4,5,0,0,9,9,2,1,7,7,6,6,6,32,6
+Ingeniería ambiental,6,0,22,1,1,1,0,0,4,3,0,0,8,8,0,1,7,7,7,6,5,32,6
+Ingeniería ambiental,5,1,22,1,2,1,0,0,3,4,0,0,6,5,2,1,6,4,5,7,6,28,5
+Ingeniería ambiental,3,1,23,1,2,1,0,0,3,4,0,0,6,4,5,2,4,5,6,2,4,21,4
+Ingeniería ambiental,3,1,21,3,3,1,0,0,4,4,1,4,5,3,2,2,4,5,4,4,4,21,4
+Ingeniería ambiental,4,0,18,1,3,1,0,0,6,6,0,0,1,6,8,0,7,5,2,2,1,17,3
+Ingeniería ambiental,2,1,25,1,4,1,1,1,6,6,1,16,1,7,9,9,4,2,3,2,2,13,2
+Ingeniería ambiental,1,0,20,2,0,0,0,0,1,1,1,12,0,1,9,9,4,1,2,1,1,9,1
+Ingeniería ambiental,12,1,25,2,3,0,1,1,1,0,1,16,0,2,8,11,1,2,1,3,1,8,1
+Ingeniería ambiental,12,1,26,2,0,0,1,1,1,0,1,20,1,3,10,11,2,1,1,1,2,7,1
+Ingeniería ambiental,1,0,20,1,3,1,1,1,1,0,1,16,0,4,10,10,2,2,2,2,1,9,1
+Ingeniería ambiental,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Ingeniería ambiental,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Ingeniería ambiental,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería ambiental,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería ambiental,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Ingeniería ambiental,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
 Ingeniería ambiental,10,0,24,1,2,1,0,0,3,3,0,0,1,3,7,10,6,6,6,6,4,28,5
-Tecnológia en levantamientos topográficos,8,1,22,1,2,1,0,0,3,2,0,0,4,3,11,10,7,6,7,6,6,32,6
-Ingeniería de sistemas,4,0,19,1,1,1,1,1,2,2,0,0,4,4,2,2,3,3,4,4,3,17,3
-Ingeniería electrónica,5,0,25,1,1,1,0,0,3,1,1,10,1,4,2,10,5,5,4,4,4,22,4
-Licenciatura  en Biología ,4,0,19,1,1,1,0,0,3,0,0,0,8,9,2,11,4,3,4,5,2,18,3
-Tecnología industrial,2,0,21,1,1,1,0,0,2,2,0,0,4,8,3,2,5,3,5,5,3,21,4
-Tecnológia en levantamientos topográficos,9,1,24,1,1,1,0,0,2,1,0,0,1,1,5,10,5,4,4,5,4,22,4
-Licenciatura en educación artística,4,0,19,1,1,1,0,0,2,0,0,0,5,5,5,7,3,3,3,4,2,15,3
-Licenciatura en educación artística,8,1,22,1,2,1,0,0,3,2,0,0,4,3,3,10,6,5,5,5,4,25,5
-Ingeniería industrial,3,0,20,1,1,0,0,0,1,0,0,0,4,5,6,6,2,2,3,2,2,11,2
 Ingeniería ambiental,2,0,18,1,1,0,0,0,1,0,0,0,2,4,5,10,4,3,4,4,3,18,3
-Licenciatura en Educación Infantil ,7,0,20,1,1,1,0,0,2,0,0,0,0,3,6,11,5,6,2,2,3,18,3
-Licenciatura en Educación Infantil ,5,0,20,1,1,1,0,0,2,1,0,0,1,3,6,6,1,4,3,1,4,13,2
 Ingeniería ambiental,1,1,22,1,0,1,1,1,3,2,0,0,8,8,9,3,3,4,3,3,2,15,3
-Ingeniería industrial,5,0,20,1,1,1,1,1,3,1,0,0,8,4,11,10,2,6,4,5,2,19,3
-Licenciatura  en Biología ,7,0,22,1,1,1,0,0,2,1,0,0,4,4,8,6,6,6,6,6,6,30,6
 Ingeniería ambiental,2,0,20,1,1,1,0,0,2,1,0,0,4,4,5,2,4,6,6,4,6,26,5
-Tecnología en sistematizacion de datos,7,0,21,1,1,1,0,0,1,1,0,0,2,2,7,7,6,5,5,4,3,23,4
-Ingeniería de sistemas,11,0,23,1,2,1,0,0,2,3,1,20,4,4,6,6,5,6,6,4,1,22,4
-Licenciatura en humanidades y lengua castellana,8,0,21,1,2,1,0,0,1,0,0,0,1,3,5,11,2,2,3,2,1,10,2
 Ingeniería ambiental,9,0,22,1,1,1,0,0,3,3,0,0,2,1,10,10,2,3,3,4,4,16,3
-Ingeniería de sistemas,5,0,19,1,1,1,0,0,2,1,0,0,8,8,5,3,4,4,4,5,4,21,4
-Licenciatura en Ciencias Sociales,9,0,24,1,1,1,0,0,3,2,0,0,6,7,7,7,6,6,6,6,6,30,6
-Ingeniería Catastral y Geodesia,5,0,23,1,0,0,0,0,2,0,0,0,8,3,10,3,6,4,6,5,7,28,5
-Ingeniería telemática,9,0,24,1,1,1,0,0,2,1,0,0,1,4,5,5,3,3,3,3,3,15,3
-Ingeniería topográfica,2,1,17,1,1,1,0,0,3,3,0,0,3,3,11,10,3,3,3,4,4,17,3
 Ingeniería ambiental,4,0,19,1,1,1,0,0,2,1,0,0,4,4,2,2,4,5,6,5,4,24,4
-Licenciatura en Educación Infantil ,6,0,20,1,1,1,0,0,2,1,0,0,2,2,6,6,6,6,7,6,6,31,6
-Licenciatura en inglés ,6,0,28,1,1,1,0,0,2,1,0,0,7,3,6,11,2,3,3,3,2,13,2
-Licenciatura  en Biología ,1,0,21,1,0,1,0,0,3,1,0,0,4,4,5,11,4,5,6,6,6,27,5
-Tecnología en saneamiento ambiental,2,1,18,1,1,0,0,0,1,0,0,0,2,4,5,6,5,4,6,5,7,27,5
-Ingeniería electrónica,6,1,20,1,1,1,0,0,2,1,0,0,0,4,11,11,3,6,4,4,3,20,4
-Licenciatura  en Biología ,7,0,20,1,1,1,0,0,3,0,0,0,5,2,6,5,5,6,7,6,7,31,6
-Licenciatura en educación artística,5,0,20,1,1,1,0,0,2,1,0,0,6,8,3,3,6,6,7,7,6,32,6
-Ingeniería topográfica,7,0,25,1,1,1,0,0,2,2,0,0,2,4,6,6,5,6,6,5,4,26,5
-Licenciatura en Ciencias Sociales,5,0,19,1,1,1,0,0,3,2,0,0,3,6,2,10,5,5,5,6,5,26,5
-Licenciatura en humanidades y lengua castellana,4,0,20,1,1,1,0,0,2,1,1,20,1,4,6,6,4,5,4,4,2,19,3
-Tecnología industrial,5,0,20,1,1,1,0,0,2,1,0,0,3,6,10,10,5,6,6,6,6,29,5
-Ingeniería industrial,9,0,22,1,1,1,0,0,2,2,0,0,7,6,3,10,3,7,3,7,4,24,4
-Ingeniería Catastral y Geodesia,1,1,19,1,0,1,0,0,1,1,0,0,1,3,6,6,5,5,4,4,5,23,4
-Licenciatura en educación artística,9,0,23,1,1,1,0,0,3,4,0,0,4,8,1,9,6,6,6,7,7,32,6
-Tecnología industrial,7,0,21,1,1,0,0,0,1,0,0,0,0,4,5,11,4,4,4,4,1,17,3
-Licenciatura en matemáticas,1,0,18,1,2,1,0,0,3,1,0,0,5,4,10,10,4,5,4,1,1,15,3
-Ingeniería industrial,5,0,21,1,1,1,0,0,2,1,0,0,3,6,9,10,6,6,6,6,7,31,6
-Ingeniería electrónica,9,0,26,1,1,0,0,0,3,0,0,0,1,4,5,10,4,3,4,4,4,19,3
-Tecnología en construcciones civiles,7,1,21,3,2,1,0,0,4,3,0,0,7,8,2,2,6,7,5,5,6,29,5
-Ingeniería Sanitaria ,3,1,18,1,0,1,0,0,3,4,0,0,8,8,5,2,5,6,6,5,4,26,5
-Licenciatura  en Biología ,12,1,23,1,1,1,0,0,2,0,0,0,0,4,2,11,3,2,3,2,1,11,2
-Ingeniería electrónica,9,0,26,2,1,0,0,0,4,4,1,20,9,9,6,6,7,7,7,7,7,35,6
-Ingeniería electrónica,2,0,18,1,0,1,0,0,1,1,0,0,4,4,11,2,1,4,1,4,1,11,2
-Licenciatura en física ,4,0,19,1,1,1,0,0,3,1,0,0,1,6,3,10,4,3,4,3,3,17,3
-Licenciatura en educación artística,4,1,18,1,0,1,0,0,3,3,0,0,4,4,2,7,3,5,2,2,6,18,3
-Licenciatura en Educación Infantil ,9,0,26,1,1,0,1,1,4,4,1,20,9,9,6,6,7,7,7,7,7,35,6
-Tecnología industrial,4,0,18,1,1,1,0,0,2,1,0,0,3,2,6,6,2,1,2,2,1,8,1
-Licenciatura en Educación Infantil ,3,0,19,1,1,1,0,0,2,1,0,0,5,2,5,10,3,4,5,5,5,22,4
-Tecnología en gestión ambiental y servicios públicos ,3,0,21,1,1,1,0,0,2,1,0,0,8,8,5,10,5,5,5,4,7,26,5
-Ingeniería de sistemas,8,0,21,1,1,1,0,0,1,0,0,0,5,4,6,10,5,6,7,6,6,30,6
-Ingeniería electrónica,3,0,19,3,2,1,0,0,2,1,0,0,6,6,5,11,3,3,3,3,2,14,2
 Ingeniería ambiental,12,0,23,3,2,1,0,0,3,2,1,20,2,6,5,9,2,4,3,4,5,18,3
 Ingeniería ambiental,1,0,19,1,0,1,0,0,2,1,0,0,8,6,2,7,2,3,1,2,1,9,1
-Ingeniería Catastral y Geodesia,3,1,21,1,1,1,0,0,2,0,0,0,0,6,10,11,2,4,2,4,4,16,3
-Ingeniería de sistemas,3,1,21,1,1,1,0,0,2,1,0,0,6,2,10,2,4,5,5,5,4,23,4
-Licenciatura en matemáticas,3,0,19,1,1,1,0,0,3,2,0,0,3,1,5,6,4,4,4,4,5,21,4
-Licenciatura en Ciencias Sociales,2,1,21,1,1,1,0,0,1,1,1,10,1,1,10,10,6,5,5,4,6,26,5
-Licenciatura en matemáticas,5,0,20,1,0,1,0,0,2,1,0,0,8,3,5,6,4,5,3,5,5,22,4
-Licenciatura en Química,2,0,17,1,1,1,0,0,2,0,0,0,0,4,6,11,5,2,5,2,3,17,3
-Ingeniería electrónica,3,1,18,1,1,1,0,0,2,1,0,0,1,1,5,10,4,5,5,3,5,22,4
-Licenciatura  en Biología ,3,1,20,1,1,1,0,0,2,1,0,0,5,7,2,6,4,5,5,3,2,19,3
-Tecnología en electrónica,8,1,19,1,1,1,0,0,3,5,1,20,9,9,1,0,7,7,7,7,7,35,6
-Ingeniería industrial,1,0,18,1,3,1,0,0,3,1,0,0,4,6,2,6,4,7,3,3,5,22,4
-Licenciatura  en Biología ,1,1,20,1,1,1,0,0,1,0,0,0,4,4,2,2,6,5,6,6,5,28,5
-Licenciatura en Educación Infantil ,4,0,19,1,3,1,0,0,3,4,0,0,8,8,3,3,4,7,1,3,1,16,3
-Ingeniería topográfica,3,0,19,1,2,1,0,0,2,0,0,0,4,2,2,2,4,4,4,5,4,21,4
-Ingeniería de sistemas,7,0,23,1,2,1,0,0,3,2,0,0,9,9,3,3,5,6,6,6,6,29,5
-Ingeniería Sanitaria ,1,0,20,3,3,1,0,0,3,2,0,0,4,8,10,2,4,3,3,5,6,21,4
 Ingeniería ambiental,4,1,23,3,2,1,0,0,3,0,1,9,8,4,5,7,3,5,3,6,2,19,3
-Licenciatura en educación artística,8,0,24,1,1,0,0,0,2,0,1,20,3,4,6,11,5,4,5,5,4,23,4
-Ingeniería electrónica,7,1,25,1,1,0,0,0,1,0,1,18,4,3,10,10,3,2,3,4,3,15,3
-Licenciatura en matemáticas,7,1,23,1,1,1,1,1,1,0,1,20,1,1,5,11,4,4,6,5,4,23,4
-Ingeniería de sistemas,6,0,21,1,1,1,0,0,2,1,0,0,3,3,5,10,4,4,4,3,3,18,3
-Ingeniería de sistemas,9,1,22,1,1,1,0,0,1,1,0,0,1,4,10,11,4,5,4,3,3,19,3
-Licenciatura  en Biología ,13,0,24,1,2,1,0,0,3,3,0,0,9,4,5,3,4,5,3,3,3,18,3
-Licenciatura  en Biología ,6,0,20,1,1,1,0,0,2,0,0,0,1,4,5,10,3,2,5,5,3,18,3
-Ingeniería industrial,7,0,23,1,1,1,0,0,2,3,0,0,6,9,3,3,3,3,3,3,4,16,3
-Ingeniería topográfica,10,0,22,3,1,0,0,0,2,1,0,0,0,6,10,11,4,4,4,5,4,21,4
-Ingeniería electrónica,3,0,19,1,1,1,0,0,2,3,0,0,8,8,3,10,4,4,6,6,5,25,5
-Ingeniería electrónica,3,1,20,1,1,0,0,0,2,0,1,20,2,4,10,10,4,5,5,5,1,20,4
-Licenciatura en educación artística,2,0,18,1,2,1,0,0,2,1,1,16,0,8,9,11,2,3,2,3,4,14,2
-Ingeniería industrial,7,0,21,1,1,0,0,0,2,0,0,0,1,2,10,11,2,1,1,3,3,10,2
-Ingeniería Catastral y Geodesia,2,0,19,1,1,1,0,0,3,1,0,0,4,3,5,2,4,4,4,4,4,20,4
-Licenciatura  en Biología ,7,0,21,1,1,1,0,0,2,2,0,0,8,5,6,7,3,4,4,4,3,18,3
-Ingeniería de sistemas,7,0,20,1,1,1,0,0,2,0,0,0,1,4,10,10,5,3,5,4,1,18,3
-Licenciatura en educación artística,7,0,21,1,1,1,0,0,2,0,0,0,3,4,5,5,3,5,2,2,1,13,2
-Licenciatura  en Biología ,7,0,21,1,1,1,0,0,2,2,0,0,0,4,6,11,4,6,7,7,7,31,6
-Licenciatura  en Biología ,10,0,23,1,1,1,0,0,2,0,0,0,5,6,5,10,3,5,2,1,1,12,2
-Ingeniería industrial,9,0,21,1,1,1,0,0,2,1,0,0,3,4,2,2,3,6,2,2,2,15,3
-Ingeniería industrial,9,0,22,1,1,1,0,0,2,0,0,0,1,1,10,10,4,4,4,5,3,20,4
-Licenciatura en humanidades y lengua castellana,4,0,26,1,0,1,0,0,3,2,0,0,7,3,5,10,1,5,3,4,2,15,3
-Tecnología en gestión de la producción industrial,3,0,20,1,1,1,0,0,3,0,1,15,5,6,10,6,5,6,6,5,5,27,5
-Licenciatura en Ciencias Sociales,8,0,21,1,1,0,0,0,2,1,0,0,4,1,5,11,3,2,5,4,1,15,3
-Ingeniería Catastral y Geodesia,10,0,25,3,1,0,0,0,2,2,1,20,0,6,7,11,4,4,4,4,7,23,4
-Ingeniería industrial,3,1,19,1,1,1,0,0,3,0,0,0,4,3,7,10,3,4,4,4,3,18,3
-Licenciatura en Educación Infantil ,4,0,20,1,1,0,0,0,2,0,0,0,0,2,6,11,2,1,1,2,1,7,1
-Ingeniería electrónica,4,0,18,1,2,1,0,0,3,1,0,0,4,4,5,10,4,5,5,4,3,21,4
-Ingeniería de sistemas,3,0,19,1,1,1,0,0,2,0,0,0,1,4,5,10,3,3,3,3,2,14,2
-Licenciatura  en Biología ,2,0,18,1,2,1,0,0,2,1,0,0,0,3,2,11,6,6,6,6,6,30,6
-Licenciatura en Ciencias Sociales,4,0,20,1,1,1,0,0,1,0,1,20,3,6,10,10,1,1,1,1,1,5,1
-Ingeniería Eléctrica,4,0,19,1,0,1,0,0,2,0,0,0,6,6,3,9,2,6,4,3,4,19,3
-Tecnología en gestión de la producción industrial,3,0,20,1,2,1,0,0,2,1,0,0,1,4,2,11,2,1,2,2,1,8,1
-Licenciatura en Ciencias Sociales,2,0,18,1,2,1,0,0,2,1,0,0,0,3,2,11,6,6,6,6,6,30,6
 Ingeniería ambiental,4,0,20,1,1,1,0,0,2,1,0,0,1,4,5,5,2,3,3,4,3,15,3
-Licenciatura en matemáticas,1,0,19,1,2,1,0,0,3,1,0,0,6,4,5,5,5,4,3,2,4,18,3
-Licenciatura en Física,4,0,18,1,2,1,0,0,3,1,0,0,4,4,10,6,2,5,4,5,4,20,4
-Licenciatura en Química,4,0,19,1,1,1,0,0,1,0,0,0,6,4,2,2,6,6,6,6,6,30,6
-Tecnología en electrónica,4,0,19,1,1,1,0,0,1,1,0,0,2,2,5,6,3,3,3,3,2,14,2
 Ingeniería ambiental,7,0,21,1,1,1,0,0,2,1,0,0,1,6,2,8,5,4,6,2,1,18,3
-Tecnología en gestión de la producción industrial,7,0,22,1,1,1,0,0,3,0,0,0,2,4,5,8,3,3,3,3,3,15,3
-Licenciatura  en Biología ,9,0,23,1,1,1,0,0,1,1,0,0,3,1,5,10,3,3,3,5,2,16,3
-Licenciatura  en Biología ,8,0,20,1,1,1,0,0,2,1,0,0,3,4,6,6,2,3,2,2,3,12,2
-Licenciatura en humanidades y lengua castellana,8,0,21,1,1,1,0,0,2,1,1,16,1,4,11,10,4,5,6,2,4,21,4
-Ingeniería industrial,9,0,23,1,1,0,1,1,1,0,0,0,3,1,5,10,4,3,5,5,5,22,4
-Ingeniería de sistemas,5,0,20,1,1,1,0,0,2,1,0,0,0,3,5,11,1,3,2,1,1,8,1
-Ingeniería de sistemas,5,0,23,1,1,1,0,0,2,1,1,4,7,1,10,5,3,3,2,3,3,14,2
-Ingeniería Catastral y Geodesia,10,0,23,1,1,1,0,0,2,1,0,0,1,1,10,10,6,7,7,6,5,31,6
-Ingeniería Catastral y Geodesia,9,0,22,1,2,1,0,0,1,3,0,0,2,2,5,10,5,6,7,6,6,30,6
-Licenciatura en matemáticas,5,0,19,1,1,1,0,0,2,1,0,0,0,6,2,11,4,4,4,3,1,16,3
-Ingeniería de sistemas,7,0,23,1,1,1,0,0,2,0,1,20,0,4,2,11,7,4,2,4,1,18,3
-Licenciatura en Educación Infantil ,11,0,27,1,1,1,0,0,2,1,0,0,4,3,10,3,3,4,5,3,2,17,3
-Ingeniería Catastral y Geodesia,10,0,24,1,1,1,0,0,2,1,0,0,1,3,5,10,3,3,5,6,6,23,4
-Licenciatura en física ,8,0,20,1,1,0,0,0,1,1,1,20,6,3,10,3,1,3,3,4,2,13,2
-Tecnología en electrónica,10,0,23,1,1,0,0,0,1,0,0,0,1,4,5,10,2,1,2,2,2,9,1
-Ingeniería industrial,5,0,19,1,1,1,0,0,2,1,0,0,1,3,5,2,4,4,3,5,3,19,3
-Licenciatura en matemáticas,5,0,20,1,1,1,0,0,2,1,0,0,0,4,6,11,4,4,4,5,4,21,4
-Licenciatura  en Biología ,9,0,22,1,1,1,0,0,3,0,1,20,2,1,5,10,3,3,1,3,1,11,2
-Tecnología en construcciones civiles,2,1,19,1,1,1,0,0,3,1,0,0,3,6,2,10,3,3,6,7,2,21,4
-Ingeniería topográfica,2,1,20,1,1,1,0,0,2,0,0,0,4,6,3,5,5,6,5,7,7,30,6
 Ingeniería ambiental,4,1,20,1,1,1,0,0,3,1,0,0,3,3,8,3,3,4,2,2,4,15,3
-Licenciatura en Educación Infantil ,6,0,20,1,1,1,0,0,2,1,0,0,6,6,2,10,4,5,5,5,3,22,4
-Licenciatura en Educación Infantil ,7,0,23,1,1,1,0,0,2,1,0,0,6,6,10,3,5,5,5,4,4,23,4
-Tecnología en gestión de la producción industrial,1,0,18,1,1,1,0,0,1,0,0,0,4,4,5,10,2,2,2,3,3,12,2
-Licenciatura  en Biología ,2,0,18,1,1,1,0,0,2,0,0,0,1,2,10,11,6,6,6,6,6,30,6
-Licenciatura en Ciencias Sociales,9,0,22,1,1,1,0,0,1,2,0,0,3,4,6,6,4,6,7,5,7,29,5
-Licenciatura  en Biología ,4,1,20,1,1,0,0,0,3,0,1,20,0,0,11,11,7,5,7,7,7,33,6
-Licenciatura en Educación Infantil ,10,1,26,1,1,1,0,0,3,1,0,0,1,4,5,11,2,4,1,2,1,10,2
-Licenciatura  en Biología ,9,0,24,1,1,1,0,0,2,1,0,0,4,3,5,10,3,7,5,5,7,27,5
-Licenciatura en Ciencias Sociales,5,0,20,1,1,0,0,0,1,0,1,20,6,6,5,6,4,6,6,4,6,26,5
-Licenciatura en educación artística,2,0,17,1,1,1,0,0,2,0,0,0,0,4,10,11,5,7,5,5,5,27,5
 Ingeniería ambiental,9,1,21,1,2,1,0,0,2,2,1,14,6,8,3,5,4,6,5,4,5,24,4
 Ingeniería ambiental,4,0,20,1,2,1,0,0,3,2,0,0,7,6,1,1,5,5,5,6,4,25,5
-Licenciatura en humanidades y lengua castellana,1,1,20,1,1,1,0,0,2,2,1,16,1,3,6,10,4,6,5,6,6,27,5
-Ingeniería industrial,2,0,18,1,0,1,0,0,2,1,0,0,8,6,2,3,5,5,4,3,2,19,3
-Ingeniería industrial,7,0,21,1,1,0,1,1,2,0,0,0,1,6,3,11,1,3,1,1,1,7,1
 Ingeniería ambiental,1,1,25,3,1,0,1,1,3,0,0,0,4,1,11,11,3,1,4,4,1,13,2
-Tecnología en gestión de la producción industrial,3,0,20,1,1,1,0,0,2,2,1,20,4,4,6,3,5,2,5,4,5,21,4
-Ingeniería Sanitaria ,1,0,18,1,0,1,0,0,2,0,0,0,5,1,2,10,5,7,6,5,6,29,5
-Licenciatura  en Biología ,5,0,19,1,1,1,0,0,3,2,0,0,4,7,6,11,3,4,4,3,4,18,3
-Ingeniería Sanitaria ,7,0,21,1,1,1,0,0,2,1,1,12,5,6,2,10,1,2,1,3,1,8,1
-Ingeniería Catastral y Geodesia,6,0,20,1,1,1,0,0,2,1,0,0,4,6,7,11,3,4,3,4,4,18,3
-Licenciatura en humanidades y lengua castellana,10,0,28,1,0,1,0,0,1,1,0,0,1,1,10,11,1,2,3,3,2,11,2
-Tecnología en saneamiento ambiental,5,0,20,1,2,1,0,0,3,1,0,0,3,4,5,2,2,3,2,2,3,12,2
-Comunicación social y periodismo,1,1,19,1,1,1,0,0,1,0,0,0,2,4,10,10,4,6,6,5,7,28,5
-Ingeniería Eléctrica,1,0,19,1,0,1,0,0,2,1,0,0,3,3,8,8,3,6,3,3,2,17,3
-Licenciatura en educación artística,2,0,19,1,1,1,0,0,1,1,0,0,3,1,10,10,3,4,3,3,2,15,3
-Licenciatura  en Biología ,2,0,17,1,1,1,0,0,2,0,0,0,1,3,5,10,1,4,4,6,1,16,3
-Ingeniería topográfica,10,0,24,1,1,0,1,1,2,0,0,0,1,6,3,11,7,4,5,1,1,18,3
-Ingeniería electrónica,5,1,21,1,2,1,0,0,2,0,0,0,1,2,10,10,2,2,2,1,1,8,1
-Ingeniería electrónica,2,0,19,1,2,1,0,0,3,1,0,0,0,8,7,11,2,4,2,2,1,11,2
-Licenciatura  en Biología ,6,1,19,1,1,1,0,0,3,3,0,0,7,9,6,6,4,6,6,5,4,25,5
-Licenciatura en inglés ,2,1,19,1,1,1,0,0,2,0,0,0,0,4,10,11,4,4,3,4,4,19,3
-Licenciatura  en Biología ,6,0,20,1,1,1,0,0,2,1,1,12,4,6,3,2,4,5,3,4,3,19,3
-Licenciatura en Química,7,0,20,1,2,1,0,0,3,1,1,20,5,4,6,10,4,4,4,4,4,20,4
-Ingeniería electrónica,6,0,21,1,1,1,0,0,3,3,0,0,4,4,5,2,3,6,3,4,2,18,3
-Ingeniería Eléctrica,4,0,18,1,2,1,0,0,2,3,0,0,4,2,5,6,4,7,7,6,6,30,6
-Licenciatura  en Biología ,5,0,19,1,1,0,0,0,2,1,0,0,6,8,3,10,6,7,7,6,7,33,6
-Ingeniería topográfica,7,0,21,1,1,1,0,0,1,1,0,0,3,2,6,11,3,5,3,4,1,16,3
-Licenciatura en Educación Infantil ,12,0,25,1,1,1,1,1,1,1,1,20,2,4,10,11,3,3,3,3,3,15,3
-Ingeniería electrónica,1,0,18,1,1,1,0,0,2,1,0,0,7,1,5,10,3,5,4,3,1,16,3
-Ingeniería de sistemas,3,0,18,1,0,1,0,0,2,2,0,0,4,4,6,6,5,7,7,7,7,33,6
-Ingeniería electrónica,4,1,21,1,1,1,0,0,2,1,1,18,1,4,6,10,6,4,5,5,2,22,4
-Licenciatura en Educación Infantil ,8,1,20,1,1,1,0,0,2,1,1,20,1,3,9,9,5,6,6,6,6,29,5
-Licenciatura en educación artística,6,0,20,1,3,1,0,0,3,3,0,0,6,6,2,7,5,7,5,6,1,24,4
-Tecnología en saneamiento ambiental,4,0,19,1,1,1,0,0,3,3,1,20,6,6,10,2,6,7,5,5,3,26,5
-Ingeniería Catastral y Geodesia,7,0,20,1,1,1,0,0,2,2,0,0,0,4,6,6,4,5,4,5,3,21,4
-Licenciatura en Educación Infantil ,10,0,24,1,1,1,0,0,1,0,0,0,3,4,5,10,4,5,6,5,5,25,5
-Licenciatura  en Biología ,1,1,18,1,1,0,0,0,2,0,0,0,3,3,5,10,4,4,4,4,2,18,3
-Ingeniería Sanitaria ,8,0,19,1,1,1,1,2,2,1,1,20,5,5,5,8,4,4,4,5,4,21,4
-Licenciatura  en Biología ,6,0,26,3,1,0,1,3,1,0,1,20,0,3,11,11,4,5,7,7,5,28,5
-Ingeniería Eléctrica,3,1,19,1,1,1,0,0,1,1,0,0,1,1,5,10,4,6,5,1,6,22,4
-Licenciatura en matemáticas,3,0,21,1,1,0,0,0,2,1,1,20,2,3,10,10,2,1,2,2,1,8,1
-Licenciatura en Química,10,0,23,1,1,1,0,0,2,1,1,10,2,2,7,8,2,4,2,4,6,18,3
-Licenciatura en inglés ,2,1,18,1,1,1,0,0,1,1,0,0,2,4,10,6,4,4,4,7,3,22,4
-Ingeniería de sistemas,9,0,22,1,1,1,1,2,2,1,1,12,4,4,5,10,6,5,7,7,6,31,6
-Licenciatura en Química,6,0,20,1,1,1,0,0,3,1,0,0,5,4,3,10,7,5,7,5,5,29,5
-Ingeniería Catastral y Geodesia,9,1,24,3,1,0,0,0,3,4,1,9,4,2,5,8,1,1,1,1,1,5,1
 Ingeniería ambiental,5,1,22,1,1,1,0,0,2,1,0,0,4,3,5,10,5,5,5,4,4,23,4
-Ingeniería Sanitaria ,1,1,18,1,1,1,0,0,3,3,1,0,4,3,10,10,4,7,5,6,3,25,5
-Licenciatura en inglés ,7,1,21,1,1,1,0,0,2,0,1,20,0,4,8,11,2,3,1,1,1,8,1
-Licenciatura en educación artística,4,0,18,1,2,1,0,0,2,1,0,0,6,4,5,2,2,2,2,2,2,10,2
-Ingeniería civil,7,1,21,1,2,1,0,0,3,2,0,0,6,4,5,11,3,5,1,4,1,14,2
-Licenciatura en Ciencias Sociales,4,0,19,1,2,0,0,0,3,1,1,20,9,4,5,5,3,5,4,6,2,20,4
-Licenciatura en Ciencias Sociales,6,0,20,1,1,1,0,0,1,3,0,0,8,4,5,3,3,4,3,2,2,14,2
-Licenciatura en humanidades y lengua castellana,10,0,22,1,0,1,0,0,1,2,0,0,4,6,2,3,6,7,7,6,5,31,6
-Ingeniería Eléctrica,7,0,20,1,1,1,0,0,2,2,0,0,2,3,2,10,4,6,4,3,5,22,4
-Tecnología en construcciones civiles,4,0,19,1,1,1,0,0,1,1,0,0,5,5,2,5,5,6,5,5,6,27,5
-Ingeniería de sistemas,4,0,20,1,1,1,0,0,2,0,0,0,3,2,10,10,4,4,4,4,4,20,4
-Ingeniería de sistemas,7,0,21,1,1,1,0,0,2,1,0,0,2,6,10,10,5,4,5,4,7,25,5
-Ingeniería industrial,3,0,20,1,1,1,0,0,1,0,0,0,7,3,5,8,5,5,5,6,4,25,5
-Ingeniería Catastral y Geodesia,7,0,21,1,1,1,0,0,3,0,0,0,3,1,6,6,4,4,3,3,5,19,3
-Ingeniería industrial,7,0,20,1,2,1,0,0,3,2,0,0,8,7,5,2,5,7,7,3,5,27,5
-Ingeniería Catastral y Geodesia,5,0,20,1,1,1,0,0,2,0,0,0,4,6,5,7,4,4,4,4,2,18,3
-Licenciatura en humanidades y lengua castellana,11,0,27,3,1,0,0,0,1,0,1,20,4,4,10,10,3,2,2,3,3,13,2
-Ingeniería de sistemas,9,0,24,1,1,0,0,0,2,1,0,0,4,1,6,6,5,4,5,6,4,24,4
-Ingeniería de sistemas,6,1,19,1,1,1,0,0,3,3,0,0,6,8,3,10,4,5,4,4,3,20,4
-Ingeniería de sistemas,7,0,25,1,1,1,1,1,2,0,0,0,0,4,10,6,3,4,3,4,2,16,3
-Licenciatura  en Biología ,4,0,19,1,1,1,0,0,2,1,0,0,3,2,5,2,3,3,3,4,3,16,3
-Licenciatura  en Biología ,5,0,20,1,2,1,0,0,2,1,0,0,4,6,5,2,2,3,2,2,1,10,2
-Ingeniería de sistemas,5,1,20,1,1,1,0,0,2,0,0,0,4,4,2,10,7,7,7,7,7,35,6
-Ingeniería Catastral y Geodesia,5,0,20,1,1,1,0,0,2,1,0,0,1,6,10,6,4,6,5,4,3,22,4
-Licenciatura  en Biología ,11,0,24,1,1,1,0,0,3,1,0,0,6,4,5,2,5,5,4,5,7,26,5
-Licenciatura en Ciencias Sociales,5,0,20,1,1,1,0,0,2,0,0,0,2,4,10,10,3,4,6,6,7,26,5
-Ingeniería industrial,9,1,26,1,1,1,0,0,2,1,0,0,3,3,10,10,2,5,2,3,1,13,2
-Ingeniería industrial,5,0,19,1,1,1,0,0,2,0,0,0,2,1,5,6,3,4,4,4,4,19,3
-Licenciatura en humanidades y lengua castellana,6,0,20,1,1,1,0,0,2,0,0,0,8,8,3,3,2,6,4,1,3,16,3
-Ingeniería de sistemas,1,0,18,1,2,1,0,0,2,1,0,0,3,4,5,10,4,5,3,4,1,17,3
-Tecnología en construcciones civiles,1,0,19,1,0,1,0,0,2,1,0,0,4,5,2,2,5,6,4,6,4,25,5
-Tecnología en sistematizacion de datos,5,0,22,1,0,1,0,0,3,1,0,0,6,6,8,8,5,6,4,4,4,23,4
-Ingeniería industrial,2,1,18,1,2,1,0,0,3,3,0,0,4,8,9,9,3,5,4,3,3,18,3
-Licenciatura en humanidades y lengua castellana,7,0,21,1,1,1,0,0,1,2,0,0,1,9,3,10,6,6,5,5,5,27,5
-Ingeniería Catastral y Geodesia,7,1,21,1,1,1,0,0,2,5,1,20,0,8,3,2,1,3,1,1,1,7,1
-Ingeniería Catastral y Geodesia,1,0,18,1,2,1,0,0,3,1,0,0,4,8,5,6,2,2,3,3,3,13,2
-Tecnología en construcciones civiles,2,1,18,1,1,1,0,0,2,1,0,0,3,4,2,2,4,4,4,5,3,20,4
 Ingeniería ambiental,4,0,18,1,0,1,0,0,2,2,0,0,3,2,5,10,6,6,7,6,5,30,6
-Licenciatura  en Biología ,4,1,19,1,1,1,0,0,2,1,0,0,1,1,10,10,6,6,5,5,4,26,5
-Tecnología en gestión de la producción industrial,3,0,19,1,1,1,0,0,3,1,0,0,3,6,5,10,6,7,7,7,6,33,6
-Ingeniería Forestal,4,0,18,1,1,1,0,0,3,2,0,0,4,6,2,2,6,7,7,6,6,32,6
-Licenciatura en Educación Infantil ,7,0,22,1,2,1,0,0,3,1,0,0,7,8,3,10,5,6,6,4,7,28,5
-Ingeniería electrónica,3,0,21,1,2,1,0,0,2,1,0,0,6,8,3,3,4,5,5,5,3,22,4
-Ingeniería industrial,6,1,21,1,2,1,0,0,3,2,0,0,0,9,3,11,2,2,2,4,3,13,2
-Ingeniería electrónica,8,1,23,1,1,0,0,0,2,1,1,20,4,4,10,11,6,5,6,7,6,30,6
-Licenciatura en Educación Infantil ,3,1,19,1,1,1,0,0,2,0,0,0,4,6,5,11,3,2,3,3,2,13,2
-Licenciatura en educación artística,3,0,19,1,1,1,0,0,2,1,0,0,9,6,3,1,6,7,3,1,1,18,3
-Licenciatura en matemáticas,5,1,21,3,1,1,0,0,2,1,0,0,4,6,2,10,3,4,3,4,3,17,3
-Ingeniería Sanitaria ,1,1,20,1,0,1,0,0,2,1,0,0,5,0,11,5,3,3,3,3,7,19,3
-Ingeniería de sistemas,5,0,24,1,1,1,0,0,2,1,1,20,4,8,6,10,6,6,7,6,6,31,6
-Licenciatura en matemáticas,7,1,22,1,1,0,0,0,2,0,1,20,1,3,5,8,3,3,3,5,2,16,3
-Ingeniería Catastral y Geodesia,4,0,20,1,1,1,0,0,3,0,0,0,3,7,5,11,5,4,5,5,4,23,4
-Licenciatura  en Biología ,7,0,20,1,2,1,0,0,2,1,1,20,7,8,9,11,6,5,5,5,5,26,5
-Ingeniería de sistemas,7,0,20,3,1,1,0,0,2,1,0,0,6,9,3,6,6,7,7,5,7,32,6
-Licenciatura  en Biología ,3,0,19,1,1,0,0,0,2,2,0,0,2,2,5,6,6,6,7,5,7,31,6
-Ingeniería industrial,4,1,19,1,2,1,0,0,3,3,0,0,8,5,10,7,5,6,5,4,4,24,4
-Ingeniería industrial,5,0,20,1,1,0,1,1,2,1,1,20,6,5,7,11,3,4,3,4,3,17,3
-Ingeniería industrial,5,1,21,1,1,1,0,0,3,0,0,0,1,4,5,6,5,5,5,5,4,24,4
-Ingeniería Catastral y Geodesia,5,1,20,1,0,1,0,0,1,1,0,0,4,4,5,6,4,4,2,1,4,15,3
-Licenciatura en Química,4,1,19,1,1,1,0,0,1,1,0,0,1,4,10,9,3,2,4,3,1,13,2
-Licenciatura  en Biología ,5,0,20,1,1,1,0,0,2,1,0,0,4,5,6,11,5,5,6,5,4,25,5
-Ingeniería industrial,3,0,19,1,1,1,0,0,2,0,0,0,4,3,6,11,5,4,5,4,7,25,5
-Ingeniería industrial,7,0,22,1,1,1,0,0,3,1,0,0,4,4,5,6,3,2,3,3,3,14,2
-Licenciatura  en Biología ,6,0,23,1,1,1,0,0,2,1,1,16,3,4,5,7,2,2,2,2,1,9,1
-Licenciatura  en Biología ,4,0,19,1,1,1,0,0,2,1,0,0,5,0,11,2,3,6,3,4,1,17,3
-Ingeniería industrial,4,0,20,1,2,1,0,0,2,1,0,0,3,8,3,11,6,7,7,4,7,31,6
-Licenciatura en educación artística,2,1,18,1,1,1,0,0,1,1,1,20,2,4,10,10,1,4,4,7,1,17,3
-Tecnología en sistematizacion de datos,5,0,19,1,1,1,0,0,2,1,0,0,4,4,5,10,3,4,3,3,3,16,3
 Ingeniería ambiental,1,0,21,1,0,1,0,0,2,1,0,0,4,4,5,6,1,3,2,1,1,8,1
-Ingeniería Catastral y Geodesia,9,0,22,1,1,1,0,0,2,2,0,0,6,6,6,3,5,6,6,5,4,26,5
-Ingeniería industrial,8,1,20,1,1,1,0,0,3,4,0,0,8,6,2,3,3,6,4,3,1,17,3
-Licenciatura en Educación Infantil ,3,0,19,1,1,0,0,0,3,0,1,6,0,1,5,11,3,7,7,4,1,22,4
-Licenciatura en humanidades y lengua castellana,2,0,17,1,1,1,0,0,2,1,0,0,1,4,5,6,5,5,5,4,4,23,4
-Ingeniería Catastral y Geodesia,2,0,18,1,2,1,0,0,2,1,0,0,4,4,5,6,4,4,5,5,3,21,4
-Ingeniería industrial,8,0,22,1,1,1,0,0,1,1,0,0,4,4,2,2,4,3,4,5,5,21,4
-Tecnología en construcciones civiles,5,0,20,1,1,1,0,0,2,1,0,0,1,6,3,10,5,7,4,5,4,25,5
-Licenciatura en Educación Infantil ,6,1,25,1,1,1,1,1,2,1,1,20,1,3,5,10,2,5,3,3,4,17,3
-Licenciatura en matemáticas,5,0,21,1,2,1,0,0,2,3,0,0,8,8,3,3,5,6,7,4,5,27,5
-Licenciatura en matemáticas,2,0,17,1,1,1,0,0,2,1,0,0,3,2,10,7,3,3,2,2,2,12,2
-Licenciatura en Química,4,1,18,1,1,1,0,0,1,1,0,0,3,6,2,11,4,4,4,3,4,19,3
-Ingeniería industrial,5,0,20,1,1,1,0,0,2,2,0,0,2,4,6,6,6,6,7,7,7,33,6
-Licenciatura  en Biología ,8,0,22,1,1,1,0,0,2,2,0,0,6,4,5,2,3,4,3,5,2,17,3
-Ingeniería Catastral y Geodesia,3,0,18,1,0,1,0,0,2,2,0,0,6,6,6,2,5,5,5,3,4,22,4
-Tecnología industrial,3,0,20,1,1,0,0,0,2,0,0,0,6,8,11,11,4,4,4,4,2,18,3
-Licenciatura en Ciencias Sociales,2,0,21,1,0,1,0,0,2,1,0,0,1,6,10,6,1,6,4,2,4,17,3
-Ingeniería industrial,7,1,23,1,1,0,0,0,2,0,0,0,4,5,5,11,4,3,3,4,1,15,3
-Licenciatura  en Biología ,3,0,20,1,1,1,0,0,2,1,0,0,6,9,3,9,3,2,2,2,1,10,2
-Ingeniería Sanitaria ,4,1,19,1,1,1,0,0,3,1,0,0,6,6,2,2,6,7,7,6,4,30,6
-Tecnología en saneamiento ambiental,1,1,21,1,1,1,0,0,2,1,1,6,8,6,3,3,4,5,6,5,6,26,5
-Ingeniería Eléctrica,5,1,19,1,1,1,0,0,2,0,0,0,5,5,10,6,2,1,1,2,1,7,1
-Licenciatura en matemáticas,4,0,21,1,1,1,0,0,3,1,0,0,4,6,2,6,3,4,4,4,3,18,3
-Licenciatura en Educación Infantil ,3,1,21,3,2,1,0,0,2,1,0,0,0,4,10,6,2,3,3,3,2,13,2
-Licenciatura en Química,2,1,19,1,2,1,0,0,2,2,0,0,3,4,2,6,4,5,6,5,3,23,4
 Ingeniería ambiental,6,1,25,1,1,1,1,2,1,0,1,16,5,4,5,6,4,5,5,6,7,27,5
-Tecnología en saneamiento ambiental,4,1,18,1,2,1,0,0,2,1,0,0,7,7,5,2,2,2,2,2,2,10,2
-Tecnología en construcciones civiles,2,0,18,1,1,1,0,0,1,0,0,0,2,2,10,10,2,6,4,3,2,17,3
-Ingeniería Catastral y Geodesia,5,0,23,1,1,1,1,1,2,1,1,20,7,3,2,10,3,2,3,3,1,12,2
-Ingeniería topográfica,7,0,21,1,1,1,0,0,2,4,1,20,4,6,6,6,3,4,4,4,3,18,3
-Licenciatura en educación artística,7,1,21,1,1,0,1,0,2,1,0,0,4,1,5,7,1,1,1,1,1,5,1
-Licenciatura  en Biología ,5,0,21,1,1,1,0,0,3,3,0,0,6,6,1,1,7,7,7,7,7,35,6
-Licenciatura  en Biología ,7,1,19,1,1,1,0,0,3,3,0,0,7,7,2,2,6,7,7,7,7,34,6
-Tecnología industrial,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Tecnología industrial,9,1,20,1,1,1,0,0,4,5,0,0,8,8,3,3,7,7,6,6,7,33,6
 Ingeniería ambiental,5,0,21,1,1,1,0,0,3,4,0,0,6,6,1,1,7,7,7,7,7,35,6
 Ingeniería ambiental,7,1,19,1,1,1,0,0,3,4,0,0,7,7,2,2,6,7,7,7,7,34,6
 Ingeniería ambiental,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Ingeniería ambiental,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Ingeniería ambiental,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Ingeniería ambiental,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Ingeniería ambiental,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Ingeniería ambiental,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Ingeniería ambiental,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería ambiental,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería ambiental,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería Catastral y Geodesia,5,1,21,1,2,1,0,0,4,5,0,0,8,9,2,2,7,7,6,6,6,32,6
+Ingeniería Catastral y Geodesia,9,0,22,1,2,1,0,0,4,4,0,0,8,7,3,1,7,7,7,7,7,35,6
+Ingeniería Catastral y Geodesia,5,0,20,1,2,1,0,0,3,5,0,0,8,8,3,2,7,6,6,6,6,31,6
+Ingeniería Catastral y Geodesia,4,0,18,1,2,1,0,0,2,1,0,0,7,7,2,3,6,6,5,4,6,27,5
+Ingeniería Catastral y Geodesia,3,1,21,1,3,1,0,0,4,5,1,8,5,4,1,2,4,4,5,4,5,22,4
+Ingeniería Catastral y Geodesia,3,0,23,3,3,1,0,0,2,2,0,0,5,6,5,7,6,7,3,2,4,22,4
+Ingeniería Catastral y Geodesia,3,1,23,1,2,1,0,0,1,2,0,0,4,5,6,2,3,4,3,3,4,17,3
+Ingeniería Catastral y Geodesia,3,1,19,1,3,1,1,1,1,1,1,8,3,2,7,10,3,4,3,3,4,17,3
+Ingeniería Catastral y Geodesia,13,0,27,1,0,1,0,0,1,0,0,0,0,1,9,9,2,4,2,3,2,13,2
+Ingeniería Catastral y Geodesia,2,0,19,2,4,0,0,0,5,5,0,0,1,6,9,11,3,1,1,2,4,11,2
+Ingeniería Catastral y Geodesia,2,1,19,2,0,0,1,1,1,0,1,16,1,2,10,8,5,3,2,2,2,14,2
+Ingeniería Catastral y Geodesia,2,0,26,2,3,1,1,1,6,6,1,12,2,7,9,0,1,1,2,2,4,10,2
+Ingeniería Catastral y Geodesia,12,1,26,2,3,1,0,0,1,1,1,20,0,4,10,11,5,6,1,1,1,14,2
+Ingeniería Catastral y Geodesia,1,1,19,2,3,0,1,1,1,1,1,16,1,1,10,9,2,1,1,2,1,7,1
+Ingeniería Catastral y Geodesia,13,1,25,3,0,0,1,1,1,2,1,12,1,5,10,9,3,2,1,1,1,8,1
+Ingeniería Catastral y Geodesia,13,1,25,2,3,0,1,1,1,1,1,16,0,2,10,9,2,1,2,1,2,8,1
+Ingeniería Catastral y Geodesia,12,0,25,2,3,1,1,1,1,1,1,20,1,5,10,9,1,2,2,1,1,7,1
+Ingeniería Catastral y Geodesia,13,0,26,1,3,1,1,1,1,0,1,12,0,3,9,8,2,4,3,2,2,13,2
+Ingeniería Catastral y Geodesia,2,0,26,3,4,1,0,0,1,2,1,16,3,3,9,8,2,4,4,2,2,14,2
+Ingeniería Catastral y Geodesia,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Ingeniería Catastral y Geodesia,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Ingeniería Catastral y Geodesia,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Ingeniería Catastral y Geodesia,5,0,23,1,0,0,0,0,2,0,0,0,8,3,10,3,6,4,6,5,7,28,5
+Ingeniería Catastral y Geodesia,1,1,19,1,0,1,0,0,1,1,0,0,1,3,6,6,5,5,4,4,5,23,4
+Ingeniería Catastral y Geodesia,3,1,21,1,1,1,0,0,2,0,0,0,0,6,10,11,2,4,2,4,4,16,3
+Ingeniería Catastral y Geodesia,2,0,19,1,1,1,0,0,3,1,0,0,4,3,5,2,4,4,4,4,4,20,4
+Ingeniería Catastral y Geodesia,10,0,25,3,1,0,0,0,2,2,1,20,0,6,7,11,4,4,4,4,7,23,4
+Ingeniería Catastral y Geodesia,10,0,23,1,1,1,0,0,2,1,0,0,1,1,10,10,6,7,7,6,5,31,6
+Ingeniería Catastral y Geodesia,9,0,22,1,2,1,0,0,1,3,0,0,2,2,5,10,5,6,7,6,6,30,6
+Ingeniería Catastral y Geodesia,10,0,24,1,1,1,0,0,2,1,0,0,1,3,5,10,3,3,5,6,6,23,4
+Ingeniería Catastral y Geodesia,6,0,20,1,1,1,0,0,2,1,0,0,4,6,7,11,3,4,3,4,4,18,3
+Ingeniería Catastral y Geodesia,7,0,20,1,1,1,0,0,2,2,0,0,0,4,6,6,4,5,4,5,3,21,4
+Ingeniería Catastral y Geodesia,9,1,24,3,1,0,0,0,3,4,1,9,4,2,5,8,1,1,1,1,1,5,1
+Ingeniería Catastral y Geodesia,7,0,21,1,1,1,0,0,3,0,0,0,3,1,6,6,4,4,3,3,5,19,3
+Ingeniería Catastral y Geodesia,5,0,20,1,1,1,0,0,2,0,0,0,4,6,5,7,4,4,4,4,2,18,3
+Ingeniería Catastral y Geodesia,5,0,20,1,1,1,0,0,2,1,0,0,1,6,10,6,4,6,5,4,3,22,4
+Ingeniería Catastral y Geodesia,7,1,21,1,1,1,0,0,2,5,1,20,0,8,3,2,1,3,1,1,1,7,1
+Ingeniería Catastral y Geodesia,1,0,18,1,2,1,0,0,3,1,0,0,4,8,5,6,2,2,3,3,3,13,2
+Ingeniería Catastral y Geodesia,4,0,20,1,1,1,0,0,3,0,0,0,3,7,5,11,5,4,5,5,4,23,4
+Ingeniería Catastral y Geodesia,5,1,20,1,0,1,0,0,1,1,0,0,4,4,5,6,4,4,2,1,4,15,3
+Ingeniería Catastral y Geodesia,9,0,22,1,1,1,0,0,2,2,0,0,6,6,6,3,5,6,6,5,4,26,5
+Ingeniería Catastral y Geodesia,2,0,18,1,2,1,0,0,2,1,0,0,4,4,5,6,4,4,5,5,3,21,4
+Ingeniería Catastral y Geodesia,3,0,18,1,0,1,0,0,2,2,0,0,6,6,6,2,5,5,5,3,4,22,4
+Ingeniería Catastral y Geodesia,5,0,23,1,1,1,1,1,2,1,1,20,7,3,2,10,3,2,3,3,1,12,2
 Ingeniería Catastral y Geodesia,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
 Ingeniería Catastral y Geodesia,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
 Ingeniería Catastral y Geodesia,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Comunicación social y periodismo,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Comunicación social y periodismo,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Ingeniería Catastral y Geodesia,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Ingeniería Catastral y Geodesia,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería Catastral y Geodesia,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Ingeniería Catastral y Geodesia,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Ingeniería Catastral y Geodesia,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Ingeniería Catastral y Geodesia,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería Catastral y Geodesia,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería Catastral y Geodesia,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería civil,2,0,26,1,3,1,1,1,1,0,1,12,2,4,10,11,2,1,2,3,4,12,2
+Ingeniería civil,12,1,26,3,0,0,0,0,1,2,1,20,9,5,11,11,2,1,2,1,2,8,1
+Ingeniería civil,2,1,23,3,0,0,0,0,1,1,1,16,2,5,11,9,2,2,2,3,3,12,2
+Ingeniería civil,7,1,21,1,2,1,0,0,3,2,0,0,6,4,5,11,3,5,1,4,1,14,2
+Ingeniería civil,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Ingeniería civil,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Ingeniería civil,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Ingeniería civil,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Ingeniería civil,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Ingeniería civil,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Ingeniería civil,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería civil,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería de producción,2,1,23,1,3,1,0,0,3,4,0,0,4,3,6,2,2,5,7,7,1,22,4
+Ingeniería de producción,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Ingeniería de producción,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Ingeniería de producción,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Ingeniería de producción,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Ingeniería de producción,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Ingeniería de producción,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería de producción,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería de sistemas,6,1,22,1,2,1,0,0,4,4,0,0,7,6,1,3,7,7,7,7,7,35,6
+Ingeniería de sistemas,7,0,19,1,2,1,0,0,4,3,0,0,7,6,2,3,7,7,7,5,7,33,6
+Ingeniería de sistemas,5,0,19,1,1,1,0,0,3,4,0,0,6,8,3,3,7,5,5,7,7,31,6
+Ingeniería de sistemas,6,1,19,1,1,1,0,0,4,4,0,0,8,8,3,1,7,5,5,7,7,31,6
+Ingeniería de sistemas,4,0,21,1,2,0,0,0,2,1,1,4,6,6,2,5,5,6,4,4,6,25,5
+Ingeniería de sistemas,4,1,22,1,1,1,0,0,3,3,0,0,5,5,3,1,7,4,5,6,6,28,5
+Ingeniería de sistemas,3,0,21,1,2,1,0,0,2,2,0,0,4,4,2,8,5,4,5,5,5,24,4
+Ingeniería de sistemas,2,0,21,1,2,0,0,0,2,3,0,0,5,4,2,2,5,5,4,5,4,23,4
+Ingeniería de sistemas,2,1,23,1,2,1,0,0,3,3,0,0,5,6,6,6,7,6,7,2,1,23,4
+Ingeniería de sistemas,6,0,20,2,3,1,1,1,1,2,1,9,4,5,7,9,1,1,2,7,7,18,3
+Ingeniería de sistemas,4,0,17,2,4,1,0,0,1,1,0,0,4,2,6,11,5,5,1,2,6,19,3
+Ingeniería de sistemas,11,1,26,2,3,1,1,1,1,2,1,12,2,5,10,11,5,2,7,2,1,17,3
+Ingeniería de sistemas,6,0,20,1,4,1,0,0,5,5,0,0,3,7,6,10,6,5,4,2,1,18,3
+Ingeniería de sistemas,10,0,25,1,0,1,0,0,1,2,0,0,3,4,7,11,5,5,1,2,6,19,3
+Ingeniería de sistemas,13,0,24,2,4,1,1,1,6,6,1,12,3,8,10,0,4,5,2,1,1,13,2
+Ingeniería de sistemas,11,1,26,3,3,1,0,0,5,5,0,0,0,8,9,9,2,1,2,3,4,12,2
+Ingeniería de sistemas,13,0,25,2,4,0,1,1,1,2,1,20,1,3,10,11,3,2,1,1,1,8,1
+Ingeniería de sistemas,12,1,26,2,4,0,0,0,1,0,0,0,1,2,10,9,1,1,2,3,2,9,1
+Ingeniería de sistemas,1,1,19,3,0,0,1,1,6,6,1,12,0,8,9,8,3,2,1,1,2,9,1
+Ingeniería de sistemas,1,0,20,1,3,1,1,1,1,0,1,16,0,4,10,10,2,2,2,2,1,9,1
+Ingeniería de sistemas,4,1,19,1,1,1,0,0,3,1,0,0,7,6,10,11,4,5,6,6,6,27,5
+Ingeniería de sistemas,12,1,26,2,0,1,1,1,5,5,1,16,1,6,9,10,3,2,1,1,1,8,1
+Ingeniería de sistemas,12,1,26,3,0,0,0,0,1,2,1,20,9,5,11,11,2,1,2,1,2,8,1
+Ingeniería de sistemas,12,0,25,2,3,1,1,1,1,1,1,20,1,5,10,9,1,2,2,1,1,7,1
+Ingeniería de sistemas,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Ingeniería de sistemas,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Ingeniería de sistemas,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Ingeniería de sistemas,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Ingeniería de sistemas,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Ingeniería de sistemas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería de sistemas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Ingeniería de sistemas,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería de sistemas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería de sistemas,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Ingeniería de sistemas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Ingeniería de sistemas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Ingeniería de sistemas,3,1,22,1,1,1,1,1,2,0,0,0,0,4,5,11,4,4,5,5,7,25,5
+Ingeniería de sistemas,9,0,22,1,1,1,0,0,2,0,0,0,4,1,7,10,5,4,5,5,3,22,4
+Ingeniería de sistemas,4,0,19,1,1,1,1,1,2,2,0,0,4,4,2,2,3,3,4,4,3,17,3
+Ingeniería de sistemas,11,0,23,1,2,1,0,0,2,3,1,20,4,4,6,6,5,6,6,4,1,22,4
+Ingeniería de sistemas,5,0,19,1,1,1,0,0,2,1,0,0,8,8,5,3,4,4,4,5,4,21,4
+Ingeniería de sistemas,8,0,21,1,1,1,0,0,1,0,0,0,5,4,6,10,5,6,7,6,6,30,6
+Ingeniería de sistemas,3,1,21,1,1,1,0,0,2,1,0,0,6,2,10,2,4,5,5,5,4,23,4
+Ingeniería de sistemas,7,0,23,1,2,1,0,0,3,2,0,0,9,9,3,3,5,6,6,6,6,29,5
+Ingeniería de sistemas,6,0,21,1,1,1,0,0,2,1,0,0,3,3,5,10,4,4,4,3,3,18,3
+Ingeniería de sistemas,9,1,22,1,1,1,0,0,1,1,0,0,1,4,10,11,4,5,4,3,3,19,3
+Ingeniería de sistemas,7,0,20,1,1,1,0,0,2,0,0,0,1,4,10,10,5,3,5,4,1,18,3
+Ingeniería de sistemas,3,0,19,1,1,1,0,0,2,0,0,0,1,4,5,10,3,3,3,3,2,14,2
+Ingeniería de sistemas,5,0,20,1,1,1,0,0,2,1,0,0,0,3,5,11,1,3,2,1,1,8,1
+Ingeniería de sistemas,5,0,23,1,1,1,0,0,2,1,1,4,7,1,10,5,3,3,2,3,3,14,2
+Ingeniería de sistemas,7,0,23,1,1,1,0,0,2,0,1,20,0,4,2,11,7,4,2,4,1,18,3
+Ingeniería de sistemas,3,0,18,1,0,1,0,0,2,2,0,0,4,4,6,6,5,7,7,7,7,33,6
+Ingeniería de sistemas,9,0,22,1,1,1,1,2,2,1,1,12,4,4,5,10,6,5,7,7,6,31,6
+Ingeniería de sistemas,4,0,20,1,1,1,0,0,2,0,0,0,3,2,10,10,4,4,4,4,4,20,4
+Ingeniería de sistemas,7,0,21,1,1,1,0,0,2,1,0,0,2,6,10,10,5,4,5,4,7,25,5
+Ingeniería de sistemas,9,0,24,1,1,0,0,0,2,1,0,0,4,1,6,6,5,4,5,6,4,24,4
+Ingeniería de sistemas,6,1,19,1,1,1,0,0,3,3,0,0,6,8,3,10,4,5,4,4,3,20,4
+Ingeniería de sistemas,7,0,25,1,1,1,1,1,2,0,0,0,0,4,10,6,3,4,3,4,2,16,3
+Ingeniería de sistemas,5,1,20,1,1,1,0,0,2,0,0,0,4,4,2,10,7,7,7,7,7,35,6
+Ingeniería de sistemas,1,0,18,1,2,1,0,0,2,1,0,0,3,4,5,10,4,5,3,4,1,17,3
+Ingeniería de sistemas,5,0,24,1,1,1,0,0,2,1,1,20,4,8,6,10,6,6,7,6,6,31,6
+Ingeniería de sistemas,7,0,20,3,1,1,0,0,2,1,0,0,6,9,3,6,6,7,7,5,7,32,6
 Ingeniería de sistemas,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
 Ingeniería de sistemas,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
 Ingeniería de sistemas,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Ingeniería civil,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
-Ingeniería civil,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
-Ingeniería de producción,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Ingeniería de producción,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
 Ingeniería de sistemas,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
 Ingeniería de sistemas,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
-Tecnología en construcciones civiles,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Tecnología en construcciones civiles,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Tecnología en electrónica,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
-Tecnología en electrónica,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Ingeniería de sistemas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Ingeniería de sistemas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería de sistemas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Ingeniería de sistemas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería de sistemas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Ingeniería de sistemas,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Ingeniería de sistemas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Ingeniería de sistemas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería de sistemas,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería de sistemas,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería de sistemas,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería de sistemas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería Eléctrica,8,1,20,1,1,1,0,0,4,3,0,0,6,6,3,1,7,6,6,6,6,31,6
+Ingeniería Eléctrica,2,0,21,1,3,1,0,0,2,1,0,0,6,5,5,7,5,4,5,5,5,24,4
+Ingeniería Eléctrica,6,0,19,1,2,1,0,0,2,1,0,0,0,6,2,11,3,4,2,3,3,15,3
+Ingeniería Eléctrica,4,0,19,1,0,1,0,0,2,0,0,0,6,6,3,9,2,6,4,3,4,19,3
+Ingeniería Eléctrica,1,0,19,1,0,1,0,0,2,1,0,0,3,3,8,8,3,6,3,3,2,17,3
+Ingeniería Eléctrica,4,0,18,1,2,1,0,0,2,3,0,0,4,2,5,6,4,7,7,6,6,30,6
+Ingeniería Eléctrica,3,1,19,1,1,1,0,0,1,1,0,0,1,1,5,10,4,6,5,1,6,22,4
+Ingeniería Eléctrica,7,0,20,1,1,1,0,0,2,2,0,0,2,3,2,10,4,6,4,3,5,22,4
+Ingeniería Eléctrica,5,1,19,1,1,1,0,0,2,0,0,0,5,5,10,6,2,1,1,2,1,7,1
+Ingeniería Eléctrica,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Ingeniería Eléctrica,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Ingeniería electrónica,7,0,20,1,1,1,0,0,4,4,0,0,6,9,1,3,7,7,7,7,7,35,6
+Ingeniería electrónica,7,1,21,1,1,1,0,0,3,5,0,0,8,6,1,2,6,6,6,7,6,31,6
+Ingeniería electrónica,4,1,22,1,2,1,0,0,2,2,0,0,8,7,3,3,4,5,5,5,6,25,5
+Ingeniería electrónica,6,0,18,1,2,1,0,0,3,4,0,0,5,7,2,5,5,6,6,6,5,28,5
+Ingeniería electrónica,5,0,21,1,2,1,0,0,4,5,0,0,7,6,3,5,5,6,4,4,6,25,5
+Ingeniería electrónica,3,0,23,1,3,1,1,1,4,5,1,8,4,4,1,2,5,4,4,7,2,22,4
+Ingeniería electrónica,11,1,25,2,1,1,1,1,6,6,1,8,2,7,7,0,5,4,4,1,1,15,3
+Ingeniería electrónica,13,0,26,3,3,0,1,1,5,6,1,22,2,7,11,8,1,1,2,2,4,10,2
+Ingeniería electrónica,2,0,19,2,0,1,1,1,1,1,1,16,2,3,9,11,2,4,2,3,2,13,2
+Ingeniería electrónica,1,0,18,2,3,0,0,0,6,6,0,0,0,8,11,0,1,1,2,2,4,10,2
+Ingeniería electrónica,1,1,19,2,3,0,1,1,5,6,1,16,0,6,10,8,2,2,2,2,1,9,1
+Ingeniería electrónica,13,0,25,2,4,0,1,1,1,2,1,20,9,4,11,9,2,1,1,2,1,7,1
+Ingeniería electrónica,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Ingeniería electrónica,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Ingeniería electrónica,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería electrónica,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería electrónica,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería electrónica,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería electrónica,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Ingeniería electrónica,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Ingeniería electrónica,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Ingeniería electrónica,4,0,20,1,1,0,1,1,2,1,1,20,0,7,8,11,3,3,3,3,1,13,2
+Ingeniería electrónica,5,0,25,1,1,1,0,0,3,1,1,10,1,4,2,10,5,5,4,4,4,22,4
+Ingeniería electrónica,6,1,20,1,1,1,0,0,2,1,0,0,0,4,11,11,3,6,4,4,3,20,4
+Ingeniería electrónica,9,0,26,1,1,0,0,0,3,0,0,0,1,4,5,10,4,3,4,4,4,19,3
+Ingeniería electrónica,9,0,26,2,1,0,0,0,4,4,1,20,9,9,6,6,7,7,7,7,7,35,6
+Ingeniería electrónica,2,0,18,1,0,1,0,0,1,1,0,0,4,4,11,2,1,4,1,4,1,11,2
+Ingeniería electrónica,3,0,19,3,2,1,0,0,2,1,0,0,6,6,5,11,3,3,3,3,2,14,2
+Ingeniería electrónica,3,1,18,1,1,1,0,0,2,1,0,0,1,1,5,10,4,5,5,3,5,22,4
+Ingeniería electrónica,7,1,25,1,1,0,0,0,1,0,1,18,4,3,10,10,3,2,3,4,3,15,3
+Ingeniería electrónica,3,0,19,1,1,1,0,0,2,3,0,0,8,8,3,10,4,4,6,6,5,25,5
+Ingeniería electrónica,3,1,20,1,1,0,0,0,2,0,1,20,2,4,10,10,4,5,5,5,1,20,4
+Ingeniería electrónica,4,0,18,1,2,1,0,0,3,1,0,0,4,4,5,10,4,5,5,4,3,21,4
+Ingeniería electrónica,5,1,21,1,2,1,0,0,2,0,0,0,1,2,10,10,2,2,2,1,1,8,1
+Ingeniería electrónica,2,0,19,1,2,1,0,0,3,1,0,0,0,8,7,11,2,4,2,2,1,11,2
+Ingeniería electrónica,6,0,21,1,1,1,0,0,3,3,0,0,4,4,5,2,3,6,3,4,2,18,3
+Ingeniería electrónica,1,0,18,1,1,1,0,0,2,1,0,0,7,1,5,10,3,5,4,3,1,16,3
+Ingeniería electrónica,4,1,21,1,1,1,0,0,2,1,1,18,1,4,6,10,6,4,5,5,2,22,4
+Ingeniería electrónica,3,0,21,1,2,1,0,0,2,1,0,0,6,8,3,3,4,5,5,5,3,22,4
+Ingeniería electrónica,8,1,23,1,1,0,0,0,2,1,1,20,4,4,10,11,6,5,6,7,6,30,6
 Ingeniería electrónica,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
 Ingeniería electrónica,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Ingeniería electrónica,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Ingeniería electrónica,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Ingeniería electrónica,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería electrónica,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería en Telemática ,3,1,23,3,3,1,1,1,3,3,1,10,3,6,5,8,2,5,7,7,1,22,4
+Ingeniería en Telemática ,13,0,26,2,0,0,1,1,1,1,1,16,1,4,9,9,3,2,1,1,2,9,1
 Ingeniería en Telemática ,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
 Ingeniería en Telemática ,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Ingeniería en Telemática ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Ingeniería en Telemática ,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería en Telemática ,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería en Telemática ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería Forestal,6,0,22,1,2,1,0,0,2,1,0,0,7,5,3,1,7,6,5,5,5,28,5
+Ingeniería Forestal,5,1,22,1,2,1,0,0,2,2,1,4,5,7,3,1,6,4,5,7,6,28,5
+Ingeniería Forestal,3,0,22,1,3,1,0,0,4,4,0,0,4,3,6,7,7,6,7,2,1,23,4
+Ingeniería Forestal,4,0,17,2,1,0,0,0,6,6,0,0,4,7,8,0,5,5,1,2,6,19,3
+Ingeniería Forestal,1,1,20,1,3,0,1,1,6,6,1,20,0,8,9,0,2,1,1,2,1,7,1
+Ingeniería Forestal,13,1,26,3,4,0,0,0,1,0,1,20,1,5,10,10,4,1,2,1,1,9,1
+Ingeniería Forestal,13,0,26,1,3,1,1,1,1,0,1,12,0,3,9,8,2,4,3,2,2,13,2
+Ingeniería Forestal,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Ingeniería Forestal,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Ingeniería Forestal,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería Forestal,5,1,22,1,1,1,0,0,2,1,0,0,1,3,5,10,5,7,4,5,1,22,4
+Ingeniería Forestal,8,0,22,1,0,1,0,0,2,3,1,20,3,6,5,11,4,3,5,2,1,15,3
+Ingeniería Forestal,14,1,23,1,1,1,0,0,2,1,1,8,3,4,5,7,3,3,2,4,1,13,2
+Ingeniería Forestal,4,0,18,1,1,1,0,0,3,2,0,0,4,6,2,2,6,7,7,6,6,32,6
 Ingeniería Forestal,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
 Ingeniería Forestal,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Licenciatura en Educación Infantil ,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
-Licenciatura en Educación Infantil ,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
-Licenciatura en Educación Infantil ,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
-Licenciatura en Educación Infantil ,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
-Licenciatura en Educación Infantil ,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
-Licenciatura en Física,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
-Licenciatura en física,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
 Ingeniería Forestal,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
 Ingeniería Forestal,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
 Ingeniería Forestal,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Ingeniería Forestal,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Ingeniería Forestal,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Ingeniería Forestal,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería Forestal,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería Forestal,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería Forestal,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería Forestal,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería industrial,6,0,22,1,2,1,0,0,4,4,0,0,8,6,0,1,7,7,7,6,5,32,6
+Ingeniería industrial,5,0,19,1,1,1,0,0,4,3,0,0,7,8,0,3,7,5,5,7,7,31,6
+Ingeniería industrial,8,0,21,1,1,1,0,0,4,4,0,0,9,6,1,1,6,6,6,7,6,31,6
+Ingeniería industrial,4,1,18,1,1,0,0,0,4,5,0,0,6,7,1,5,7,6,5,5,5,28,5
+Ingeniería industrial,4,0,23,1,2,1,0,0,4,6,0,0,6,6,1,3,7,4,5,6,6,28,5
+Ingeniería industrial,4,1,22,1,2,1,0,0,3,3,0,0,5,5,3,1,4,5,5,5,6,25,5
+Ingeniería industrial,11,1,26,3,4,0,1,1,5,5,1,9,1,7,11,11,7,5,2,2,1,17,3
+Ingeniería industrial,6,0,18,3,3,1,0,0,1,2,1,9,3,1,7,10,1,1,2,7,7,18,3
+Ingeniería industrial,13,1,25,3,3,1,0,0,5,6,0,0,1,7,10,10,4,5,2,1,1,13,2
+Ingeniería industrial,1,1,24,3,4,1,0,0,1,0,1,20,0,4,10,10,2,4,2,3,2,13,2
+Ingeniería industrial,11,0,26,1,0,0,0,0,1,2,1,22,0,3,11,10,5,1,2,2,3,13,2
+Ingeniería industrial,12,1,26,2,0,0,1,1,1,2,1,16,0,1,10,11,2,1,1,1,2,7,1
+Ingeniería industrial,13,1,24,2,0,1,0,0,1,0,0,0,0,4,10,9,1,2,2,1,1,7,1
+Ingeniería industrial,13,0,26,3,3,0,1,2,1,2,1,12,0,5,10,10,1,2,1,3,1,8,1
+Ingeniería industrial,2,1,23,3,0,0,0,0,1,1,1,16,2,5,11,9,2,2,2,3,3,12,2
+Ingeniería industrial,1,0,24,1,3,1,1,1,1,2,1,16,1,4,10,11,3,2,3,3,2,13,2
+Ingeniería industrial,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Ingeniería industrial,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Ingeniería industrial,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Ingeniería industrial,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Ingeniería industrial,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Ingeniería industrial,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Ingeniería industrial,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Ingeniería industrial,4,0,20,1,1,0,0,0,3,1,1,20,0,4,5,11,6,7,6,5,1,25,5
+Ingeniería industrial,9,0,21,1,1,1,0,0,3,0,1,20,7,0,11,2,5,5,5,5,7,27,5
+Ingeniería industrial,1,0,20,1,2,1,0,0,3,0,0,0,8,4,2,5,6,6,7,5,7,31,6
+Ingeniería industrial,3,0,20,1,1,0,0,0,1,0,0,0,4,5,6,6,2,2,3,2,2,11,2
+Ingeniería industrial,5,0,20,1,1,1,1,1,3,1,0,0,8,4,11,10,2,6,4,5,2,19,3
+Ingeniería industrial,9,0,22,1,1,1,0,0,2,2,0,0,7,6,3,10,3,7,3,7,4,24,4
+Ingeniería industrial,5,0,21,1,1,1,0,0,2,1,0,0,3,6,9,10,6,6,6,6,7,31,6
+Ingeniería industrial,1,0,18,1,3,1,0,0,3,1,0,0,4,6,2,6,4,7,3,3,5,22,4
+Ingeniería industrial,7,0,23,1,1,1,0,0,2,3,0,0,6,9,3,3,3,3,3,3,4,16,3
+Ingeniería industrial,7,0,21,1,1,0,0,0,2,0,0,0,1,2,10,11,2,1,1,3,3,10,2
+Ingeniería industrial,9,0,21,1,1,1,0,0,2,1,0,0,3,4,2,2,3,6,2,2,2,15,3
+Ingeniería industrial,9,0,22,1,1,1,0,0,2,0,0,0,1,1,10,10,4,4,4,5,3,20,4
+Ingeniería industrial,3,1,19,1,1,1,0,0,3,0,0,0,4,3,7,10,3,4,4,4,3,18,3
+Ingeniería industrial,9,0,23,1,1,0,1,1,1,0,0,0,3,1,5,10,4,3,5,5,5,22,4
+Ingeniería industrial,5,0,19,1,1,1,0,0,2,1,0,0,1,3,5,2,4,4,3,5,3,19,3
+Ingeniería industrial,2,0,18,1,0,1,0,0,2,1,0,0,8,6,2,3,5,5,4,3,2,19,3
+Ingeniería industrial,7,0,21,1,1,0,1,1,2,0,0,0,1,6,3,11,1,3,1,1,1,7,1
+Ingeniería industrial,3,0,20,1,1,1,0,0,1,0,0,0,7,3,5,8,5,5,5,6,4,25,5
+Ingeniería industrial,7,0,20,1,2,1,0,0,3,2,0,0,8,7,5,2,5,7,7,3,5,27,5
+Ingeniería industrial,9,1,26,1,1,1,0,0,2,1,0,0,3,3,10,10,2,5,2,3,1,13,2
+Ingeniería industrial,5,0,19,1,1,1,0,0,2,0,0,0,2,1,5,6,3,4,4,4,4,19,3
+Ingeniería industrial,2,1,18,1,2,1,0,0,3,3,0,0,4,8,9,9,3,5,4,3,3,18,3
+Ingeniería industrial,6,1,21,1,2,1,0,0,3,2,0,0,0,9,3,11,2,2,2,4,3,13,2
+Ingeniería industrial,4,1,19,1,2,1,0,0,3,3,0,0,8,5,10,7,5,6,5,4,4,24,4
+Ingeniería industrial,5,0,20,1,1,0,1,1,2,1,1,20,6,5,7,11,3,4,3,4,3,17,3
+Ingeniería industrial,5,1,21,1,1,1,0,0,3,0,0,0,1,4,5,6,5,5,5,5,4,24,4
+Ingeniería industrial,3,0,19,1,1,1,0,0,2,0,0,0,4,3,6,11,5,4,5,4,7,25,5
+Ingeniería industrial,7,0,22,1,1,1,0,0,3,1,0,0,4,4,5,6,3,2,3,3,3,14,2
+Ingeniería industrial,4,0,20,1,2,1,0,0,2,1,0,0,3,8,3,11,6,7,7,4,7,31,6
+Ingeniería industrial,8,1,20,1,1,1,0,0,3,4,0,0,8,6,2,3,3,6,4,3,1,17,3
+Ingeniería industrial,8,0,22,1,1,1,0,0,1,1,0,0,4,4,2,2,4,3,4,5,5,21,4
+Ingeniería industrial,5,0,20,1,1,1,0,0,2,2,0,0,2,4,6,6,6,6,7,7,7,33,6
+Ingeniería industrial,7,1,23,1,1,0,0,0,2,0,0,0,4,5,5,11,4,3,3,4,1,15,3
 Ingeniería industrial,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
 Ingeniería industrial,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
 Ingeniería industrial,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Ingeniería industrial,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Ingeniería industrial,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Ingeniería industrial,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Ingeniería industrial,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Ingeniería industrial,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería industrial,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería industrial,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería industrial,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería industrial,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Ingeniería industrial,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Ingeniería industrial,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Ingeniería mecánica,8,1,21,1,1,1,0,0,4,3,0,0,6,7,0,3,7,7,6,6,6,32,6
+Ingeniería mecánica,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Ingeniería mecánica,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Ingeniería mecánica,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Ingeniería mecánica,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Ingeniería mecánica,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Ingeniería producción ,4,1,18,1,1,1,0,0,3,3,0,0,5,5,3,3,5,6,6,6,5,28,5
+Ingeniería producción ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Ingeniería producción ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Ingeniería producción ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Ingeniería producción ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Ingeniería Sanitaria ,4,1,21,1,2,1,0,0,4,5,0,0,6,7,1,3,5,5,5,5,5,25,5
+Ingeniería Sanitaria ,13,0,24,2,4,0,0,0,6,6,0,0,0,7,10,8,5,1,2,2,3,13,2
+Ingeniería Sanitaria ,12,0,25,2,3,1,1,1,1,1,1,20,1,5,10,9,1,2,2,1,1,7,1
+Ingeniería Sanitaria ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Ingeniería Sanitaria ,8,0,22,1,1,1,0,0,2,1,1,20,4,4,10,10,3,4,6,7,7,27,5
+Ingeniería Sanitaria ,3,1,18,1,0,1,0,0,3,4,0,0,8,8,5,2,5,6,6,5,4,26,5
+Ingeniería Sanitaria ,1,0,20,3,3,1,0,0,3,2,0,0,4,8,10,2,4,3,3,5,6,21,4
+Ingeniería Sanitaria ,1,0,18,1,0,1,0,0,2,0,0,0,5,1,2,10,5,7,6,5,6,29,5
+Ingeniería Sanitaria ,7,0,21,1,1,1,0,0,2,1,1,12,5,6,2,10,1,2,1,3,1,8,1
+Ingeniería Sanitaria ,8,0,19,1,1,1,1,2,2,1,1,20,5,5,5,8,4,4,4,5,4,21,4
+Ingeniería Sanitaria ,1,1,18,1,1,1,0,0,3,3,1,0,4,3,10,10,4,7,5,6,3,25,5
+Ingeniería Sanitaria ,1,1,20,1,0,1,0,0,2,1,0,0,5,0,11,5,3,3,3,3,7,19,3
+Ingeniería Sanitaria ,4,1,19,1,1,1,0,0,3,1,0,0,6,6,2,2,6,7,7,6,4,30,6
 Ingeniería Sanitaria ,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
 Ingeniería Sanitaria ,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Ingeniería Sanitaria ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Ingeniería Sanitaria ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Ingeniería Sanitaria ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Ingeniería Sanitaria ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Ingeniería Sanitaria ,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Ingeniería Sanitaria ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Ingeniería Sanitaria ,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Ingeniería Sanitaria ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Ingeniería Sanitaria ,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Ingeniería telemática,4,1,23,1,2,1,1,1,2,2,1,4,5,6,2,3,6,4,5,7,6,28,5
+Ingeniería telemática,9,0,24,1,1,1,0,0,2,1,0,0,1,4,5,5,3,3,3,3,3,15,3
 Ingeniería telemática,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
 Ingeniería telemática,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Ingeniería telemática,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Ingeniería telemática,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Ingeniería topográfica,9,1,22,1,2,1,0,0,4,4,0,0,7,8,2,1,7,6,6,6,6,31,6
+Ingeniería topográfica,6,0,20,1,1,1,0,0,4,5,0,0,6,9,2,3,6,5,7,7,6,31,6
+Ingeniería topográfica,4,0,18,1,3,1,0,0,1,1,0,0,2,4,7,9,3,4,5,6,1,19,3
+Ingeniería topográfica,2,1,19,3,0,1,1,1,1,0,1,20,2,5,10,8,5,1,2,2,3,13,2
+Ingeniería topográfica,1,0,24,1,3,1,1,1,1,2,1,16,1,4,10,11,3,2,3,3,2,13,2
+Ingeniería topográfica,2,1,17,1,1,1,0,0,3,3,0,0,3,3,11,10,3,3,3,4,4,17,3
+Ingeniería topográfica,7,0,25,1,1,1,0,0,2,2,0,0,2,4,6,6,5,6,6,5,4,26,5
+Ingeniería topográfica,3,0,19,1,2,1,0,0,2,0,0,0,4,2,2,2,4,4,4,5,4,21,4
+Ingeniería topográfica,10,0,22,3,1,0,0,0,2,1,0,0,0,6,10,11,4,4,4,5,4,21,4
+Ingeniería topográfica,2,1,20,1,1,1,0,0,2,0,0,0,4,6,3,5,5,6,5,7,7,30,6
+Ingeniería topográfica,10,0,24,1,1,0,1,1,2,0,0,0,1,6,3,11,7,4,5,1,1,18,3
+Ingeniería topográfica,7,0,21,1,1,1,0,0,1,1,0,0,3,2,6,11,3,5,3,4,1,16,3
+Ingeniería topográfica,7,0,21,1,1,1,0,0,2,4,1,20,4,6,6,6,3,4,4,4,3,18,3
 Ingeniería topográfica,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
 Ingeniería topográfica,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
 Ingeniería topográfica,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
@@ -676,206 +437,12 @@ Ingeniería topográfica,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
 Ingeniería topográfica,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
 Ingeniería topográfica,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
 Ingeniería topográfica,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Licenciatura  en Biología ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura  en Biología ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Licenciatura en Química,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura en Química,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Licenciatura en Química,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura en Química,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Licenciatura en Química,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Tecnología en sistematizacion de datos,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Tecnología en sistematizacion de datos,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Tecnología industrial,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Tecnología industrial,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Tecnología industrial,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Tecnología industrial,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Tecnología en electrónica,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Tecnología en electrónica,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Tecnología en gestión ambiental y servicios públicos ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Tecnología en gestión ambiental y servicios públicos ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Ingeniería industrial,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Ingeniería industrial,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Ingeniería mecánica,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Ingeniería producción ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Ingeniería Sanitaria ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Ingeniería Sanitaria ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Ingeniería industrial,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Ingeniería mecánica,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Ingeniería producción ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Ingeniería Sanitaria ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
 Ingeniería topográfica,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
 Ingeniería topográfica,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura  en Biología ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Licenciatura  en Biología ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura en Química,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Licenciatura en Química,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura en inglés ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Licenciatura en inglés ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura en inglés ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Licenciatura en matemáticas,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura en matemáticas,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Licenciatura en matemáticas,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura en física ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Licenciatura en física ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura en humanidades y lengua castellana,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
-Licenciatura en humanidades y lengua castellana,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Licenciatura en humanidades y lengua castellana,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Tecnología en gestión ambiental y servicios públicos ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Tecnología en gestión ambiental y servicios públicos ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
-Tecnología en gestión de la producción industrial,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
-Tecnología en gestión de la producción industrial,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
-Licenciatura en Química,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Licenciatura en Química,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Tecnología en construcciones civiles,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Tecnología en construcciones civiles,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Licenciatura en inglés ,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Licenciatura en inglés ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Licenciatura en matemáticas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Licenciatura en matemáticas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Licenciatura en Educación Infantil ,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Licenciatura en Educación Infantil ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Licenciatura en Física,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Licenciatura en física,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
 Ingeniería topográfica,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
 Ingeniería topográfica,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Licenciatura  en Biología ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Licenciatura  en Biología ,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Tecnología en sistematizacion de datos,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Tecnología en sistematizacion de datos,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Tecnología industrial,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Tecnología industrial,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Tecnología en gestión de la producción industrial,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Tecnología en gestión de la producción industrial,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Tecnológia en levantamientos topográficos,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Tecnológia en levantamientos topográficos,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Tecnología en saneamiento ambiental,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Tecnología en saneamiento ambiental,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Ingeniería industrial,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería industrial,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Ingeniería mecánica,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Ingeniería producción ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Ingeniería Sanitaria ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería Sanitaria ,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Ingeniería electrónica,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Ingeniería electrónica,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Ingeniería en Telemática ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería en Telemática ,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Ingeniería Forestal,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Ingeniería Forestal,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Ingeniería de sistemas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería de sistemas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Ingeniería Eléctrica,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Ingeniería Eléctrica,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Ingeniería Catastral y Geodesia,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería Catastral y Geodesia,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Ingeniería civil,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Ingeniería civil,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Comunicación social y periodismo,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Comunicación social y periodismo,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
-Ingeniería ambiental,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
-Ingeniería ambiental,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
-Ingeniería de sistemas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
-Ingeniería de sistemas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
 Ingeniería topográfica,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
 Ingeniería topográfica,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura  en Biología ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Licenciatura  en Biología ,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura en Química,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura en Química,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en inglés ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Licenciatura en inglés ,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura en inglés ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura en matemáticas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en matemáticas,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Licenciatura en matemáticas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura en física ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura en física ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en humanidades y lengua castellana,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Licenciatura en humanidades y lengua castellana,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura en humanidades y lengua castellana,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Tecnología en gestión ambiental y servicios públicos ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Tecnología en gestión ambiental y servicios públicos ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Tecnología en gestión de la producción industrial,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Tecnología en gestión de la producción industrial,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura en Química,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en Química,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Tecnología en construcciones civiles,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Tecnología en construcciones civiles,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura en inglés ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en inglés ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Licenciatura en matemáticas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura en matemáticas,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura en Educación Infantil ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura en Educación Infantil ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Licenciatura en Física,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura en física,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Licenciatura  en Biología ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Licenciatura  en Biología ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Tecnología industrial,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Tecnología industrial,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Ingeniería ambiental,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Ingeniería ambiental,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Ingeniería ambiental,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Ingeniería Catastral y Geodesia,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Ingeniería Catastral y Geodesia,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Ingeniería Catastral y Geodesia,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Comunicación social y periodismo,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Comunicación social y periodismo,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Ingeniería de sistemas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Ingeniería de sistemas,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Ingeniería de sistemas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Ingeniería civil,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
-Ingeniería civil,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
-Ingeniería de producción,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
-Ingeniería de producción,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
-Licenciatura  en Biología ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Licenciatura  en Biología ,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Tecnología industrial,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Tecnología industrial,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería ambiental,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería ambiental,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería ambiental,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería Catastral y Geodesia,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería Catastral y Geodesia,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería Catastral y Geodesia,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Comunicación social y periodismo,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Comunicación social y periodismo,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería de sistemas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería de sistemas,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería de sistemas,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería civil,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería civil,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería de producción,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería de producción,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería de sistemas,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería de sistemas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Tecnología en construcciones civiles,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Tecnología en construcciones civiles,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Tecnología en electrónica,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Tecnología en electrónica,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería electrónica,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería electrónica,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería en Telemática ,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería en Telemática ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería Forestal,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería Forestal,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Licenciatura en Educación Infantil ,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Licenciatura en Educación Infantil ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Licenciatura en Educación Infantil ,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Licenciatura en Educación Infantil ,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Licenciatura en Educación Infantil ,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Licenciatura en Física,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Licenciatura en física,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería Forestal,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería Forestal,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería Forestal,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería industrial,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería industrial,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería industrial,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
-Ingeniería Sanitaria ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
-Ingeniería Sanitaria ,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
-Ingeniería telemática,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
-Ingeniería telemática,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
 Ingeniería topográfica,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
 Ingeniería topográfica,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
 Ingeniería topográfica,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
@@ -883,52 +450,485 @@ Ingeniería topográfica,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
 Ingeniería topográfica,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
 Ingeniería topográfica,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
 Ingeniería topográfica,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Ingeniería topográfica,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Ingeniería topográfica,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Ingeniería topográfica,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Ingeniería topográfica,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Licenciatura  en Biología ,5,1,19,1,2,1,0,0,3,4,0,0,8,9,3,3,5,7,6,7,7,32,6
+Licenciatura  en Biología ,7,0,19,1,1,1,0,0,3,3,0,0,9,9,2,3,7,7,7,5,7,33,6
+Licenciatura  en Biología ,8,0,22,1,2,1,0,0,3,3,0,0,6,6,2,1,7,7,7,7,7,35,6
+Licenciatura  en Biología ,9,1,20,1,2,1,0,0,4,5,0,0,7,8,0,3,7,6,6,6,6,31,6
+Licenciatura  en Biología ,4,0,23,1,2,1,0,0,3,2,0,0,7,8,3,1,6,6,5,4,6,27,5
+Licenciatura  en Biología ,2,1,22,1,3,0,0,0,3,2,0,0,3,3,2,7,2,3,4,5,6,20,4
+Licenciatura  en Biología ,3,1,22,1,3,0,0,0,2,2,0,0,4,3,6,5,4,4,5,4,5,22,4
+Licenciatura  en Biología ,11,1,25,1,4,0,0,0,5,6,0,0,1,6,6,10,5,4,4,1,1,15,3
+Licenciatura  en Biología ,12,0,26,1,0,1,1,2,1,1,1,12,2,2,8,7,5,2,7,2,1,17,3
+Licenciatura  en Biología ,3,0,18,2,0,1,0,0,1,1,0,0,2,4,7,11,6,5,4,2,1,18,3
+Licenciatura  en Biología ,12,1,26,2,4,1,0,0,1,2,1,8,2,5,7,10,3,4,5,2,1,15,3
+Licenciatura  en Biología ,1,1,19,3,0,0,1,1,1,0,1,20,3,4,9,8,5,3,2,2,2,14,2
+Licenciatura  en Biología ,2,1,23,2,0,1,1,1,1,2,1,16,1,3,11,9,4,5,2,1,1,13,2
+Licenciatura  en Biología ,13,1,25,2,0,1,0,0,1,1,1,12,1,2,10,11,2,1,2,1,2,8,1
+Licenciatura  en Biología ,13,0,26,2,3,1,1,2,5,6,1,16,0,7,9,0,2,2,2,2,1,9,1
+Licenciatura  en Biología ,12,0,26,1,0,1,0,0,1,3,0,0,1,5,10,10,1,1,2,3,2,9,1
+Licenciatura  en Biología ,1,0,20,3,4,1,1,1,1,2,1,20,1,2,10,11,3,2,1,1,2,9,1
+Licenciatura  en Biología ,1,1,20,2,3,0,1,1,1,2,1,16,0,5,10,11,1,1,2,3,2,9,1
+Licenciatura  en Biología ,1,1,20,2,3,0,1,1,1,2,1,16,0,5,10,11,1,1,2,3,2,9,1
+Licenciatura  en Biología ,2,1,23,3,0,0,0,0,1,1,1,16,2,5,11,9,2,2,2,3,3,12,2
+Licenciatura  en Biología ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura  en Biología ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Licenciatura  en Biología ,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Licenciatura  en Biología ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
 Licenciatura  en Biología ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
 Licenciatura  en Biología ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Licenciatura  en Biología ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Licenciatura  en Biología ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura  en Biología ,10,0,22,1,1,1,0,0,3,1,1,6,4,6,10,3,3,4,5,5,4,21,4
+Licenciatura  en Biología ,8,0,21,1,1,1,0,0,1,1,1,8,5,5,5,3,2,1,1,1,1,6,1
+Licenciatura  en Biología ,11,0,23,1,1,0,1,1,2,0,1,8,3,6,10,8,4,4,5,5,3,21,4
+Licenciatura  en Biología ,4,0,19,1,1,1,0,0,3,0,0,0,8,9,2,11,4,3,4,5,2,18,3
+Licenciatura  en Biología ,7,0,22,1,1,1,0,0,2,1,0,0,4,4,8,6,6,6,6,6,6,30,6
+Licenciatura  en Biología ,1,0,21,1,0,1,0,0,3,1,0,0,4,4,5,11,4,5,6,6,6,27,5
+Licenciatura  en Biología ,7,0,20,1,1,1,0,0,3,0,0,0,5,2,6,5,5,6,7,6,7,31,6
+Licenciatura  en Biología ,12,1,23,1,1,1,0,0,2,0,0,0,0,4,2,11,3,2,3,2,1,11,2
+Licenciatura  en Biología ,3,1,20,1,1,1,0,0,2,1,0,0,5,7,2,6,4,5,5,3,2,19,3
+Licenciatura  en Biología ,1,1,20,1,1,1,0,0,1,0,0,0,4,4,2,2,6,5,6,6,5,28,5
+Licenciatura  en Biología ,13,0,24,1,2,1,0,0,3,3,0,0,9,4,5,3,4,5,3,3,3,18,3
+Licenciatura  en Biología ,6,0,20,1,1,1,0,0,2,0,0,0,1,4,5,10,3,2,5,5,3,18,3
+Licenciatura  en Biología ,7,0,21,1,1,1,0,0,2,2,0,0,8,5,6,7,3,4,4,4,3,18,3
+Licenciatura  en Biología ,7,0,21,1,1,1,0,0,2,2,0,0,0,4,6,11,4,6,7,7,7,31,6
+Licenciatura  en Biología ,10,0,23,1,1,1,0,0,2,0,0,0,5,6,5,10,3,5,2,1,1,12,2
+Licenciatura  en Biología ,2,0,18,1,2,1,0,0,2,1,0,0,0,3,2,11,6,6,6,6,6,30,6
+Licenciatura  en Biología ,9,0,23,1,1,1,0,0,1,1,0,0,3,1,5,10,3,3,3,5,2,16,3
+Licenciatura  en Biología ,8,0,20,1,1,1,0,0,2,1,0,0,3,4,6,6,2,3,2,2,3,12,2
+Licenciatura  en Biología ,9,0,22,1,1,1,0,0,3,0,1,20,2,1,5,10,3,3,1,3,1,11,2
+Licenciatura  en Biología ,2,0,18,1,1,1,0,0,2,0,0,0,1,2,10,11,6,6,6,6,6,30,6
+Licenciatura  en Biología ,4,1,20,1,1,0,0,0,3,0,1,20,0,0,11,11,7,5,7,7,7,33,6
+Licenciatura  en Biología ,9,0,24,1,1,1,0,0,2,1,0,0,4,3,5,10,3,7,5,5,7,27,5
+Licenciatura  en Biología ,5,0,19,1,1,1,0,0,3,2,0,0,4,7,6,11,3,4,4,3,4,18,3
+Licenciatura  en Biología ,2,0,17,1,1,1,0,0,2,0,0,0,1,3,5,10,1,4,4,6,1,16,3
+Licenciatura  en Biología ,6,1,19,1,1,1,0,0,3,3,0,0,7,9,6,6,4,6,6,5,4,25,5
+Licenciatura  en Biología ,6,0,20,1,1,1,0,0,2,1,1,12,4,6,3,2,4,5,3,4,3,19,3
+Licenciatura  en Biología ,5,0,19,1,1,0,0,0,2,1,0,0,6,8,3,10,6,7,7,6,7,33,6
+Licenciatura  en Biología ,1,1,18,1,1,0,0,0,2,0,0,0,3,3,5,10,4,4,4,4,2,18,3
+Licenciatura  en Biología ,6,0,26,3,1,0,1,3,1,0,1,20,0,3,11,11,4,5,7,7,5,28,5
+Licenciatura  en Biología ,4,0,19,1,1,1,0,0,2,1,0,0,3,2,5,2,3,3,3,4,3,16,3
+Licenciatura  en Biología ,5,0,20,1,2,1,0,0,2,1,0,0,4,6,5,2,2,3,2,2,1,10,2
+Licenciatura  en Biología ,11,0,24,1,1,1,0,0,3,1,0,0,6,4,5,2,5,5,4,5,7,26,5
+Licenciatura  en Biología ,4,1,19,1,1,1,0,0,2,1,0,0,1,1,10,10,6,6,5,5,4,26,5
+Licenciatura  en Biología ,7,0,20,1,2,1,0,0,2,1,1,20,7,8,9,11,6,5,5,5,5,26,5
+Licenciatura  en Biología ,3,0,19,1,1,0,0,0,2,2,0,0,2,2,5,6,6,6,7,5,7,31,6
+Licenciatura  en Biología ,5,0,20,1,1,1,0,0,2,1,0,0,4,5,6,11,5,5,6,5,4,25,5
+Licenciatura  en Biología ,6,0,23,1,1,1,0,0,2,1,1,16,3,4,5,7,2,2,2,2,1,9,1
+Licenciatura  en Biología ,4,0,19,1,1,1,0,0,2,1,0,0,5,0,11,2,3,6,3,4,1,17,3
+Licenciatura  en Biología ,8,0,22,1,1,1,0,0,2,2,0,0,6,4,5,2,3,4,3,5,2,17,3
+Licenciatura  en Biología ,3,0,20,1,1,1,0,0,2,1,0,0,6,9,3,9,3,2,2,2,1,10,2
+Licenciatura  en Biología ,5,0,21,1,1,1,0,0,3,3,0,0,6,6,1,1,7,7,7,7,7,35,6
+Licenciatura  en Biología ,7,1,19,1,1,1,0,0,3,3,0,0,7,7,2,2,6,7,7,7,7,34,6
+Licenciatura  en Biología ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Licenciatura  en Biología ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Licenciatura  en Biología ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Licenciatura  en Biología ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Licenciatura  en Biología ,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Licenciatura  en Biología ,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Licenciatura  en Biología ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura  en Biología ,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Licenciatura  en Biología ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura  en Biología ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura  en Biología ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Licenciatura  en Biología ,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Licenciatura  en Biología ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Licenciatura  en Biología ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Licenciatura  en Biología ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Licenciatura  en Biología ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Licenciatura  en Biología ,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Licenciatura  en Biología ,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Licenciatura en Ciencias Sociales,8,0,19,1,1,1,0,0,4,5,0,0,7,6,2,1,6,6,6,7,6,31,6
+Licenciatura en Ciencias Sociales,9,0,21,1,1,1,0,0,3,4,0,0,8,8,2,1,6,6,6,7,6,31,6
+Licenciatura en Ciencias Sociales,5,1,23,1,2,1,0,0,3,4,1,4,8,8,3,3,3,6,7,5,4,25,5
+Licenciatura en Ciencias Sociales,13,0,26,3,0,0,1,1,6,6,1,20,3,8,9,9,3,1,1,2,4,11,2
+Licenciatura en Ciencias Sociales,12,1,26,2,3,1,0,0,1,0,1,16,1,1,10,11,4,2,3,2,2,13,2
+Licenciatura en Ciencias Sociales,1,1,18,2,4,1,1,1,1,1,1,12,2,2,11,9,2,1,2,3,4,12,2
+Licenciatura en Ciencias Sociales,12,1,24,2,3,0,1,0,1,1,1,16,1,1,10,11,2,1,1,2,1,7,1
+Licenciatura en Ciencias Sociales,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Licenciatura en Ciencias Sociales,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Licenciatura en Ciencias Sociales,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Licenciatura en Ciencias Sociales,9,1,24,1,1,1,0,0,2,2,1,8,9,2,10,3,6,6,5,6,5,28,5
+Licenciatura en Ciencias Sociales,9,0,24,1,1,1,0,0,3,2,0,0,6,7,7,7,6,6,6,6,6,30,6
+Licenciatura en Ciencias Sociales,5,0,19,1,1,1,0,0,3,2,0,0,3,6,2,10,5,5,5,6,5,26,5
+Licenciatura en Ciencias Sociales,2,1,21,1,1,1,0,0,1,1,1,10,1,1,10,10,6,5,5,4,6,26,5
+Licenciatura en Ciencias Sociales,8,0,21,1,1,0,0,0,2,1,0,0,4,1,5,11,3,2,5,4,1,15,3
+Licenciatura en Ciencias Sociales,4,0,20,1,1,1,0,0,1,0,1,20,3,6,10,10,1,1,1,1,1,5,1
+Licenciatura en Ciencias Sociales,2,0,18,1,2,1,0,0,2,1,0,0,0,3,2,11,6,6,6,6,6,30,6
+Licenciatura en Ciencias Sociales,9,0,22,1,1,1,0,0,1,2,0,0,3,4,6,6,4,6,7,5,7,29,5
+Licenciatura en Ciencias Sociales,5,0,20,1,1,0,0,0,1,0,1,20,6,6,5,6,4,6,6,4,6,26,5
+Licenciatura en Ciencias Sociales,4,0,19,1,2,0,0,0,3,1,1,20,9,4,5,5,3,5,4,6,2,20,4
+Licenciatura en Ciencias Sociales,6,0,20,1,1,1,0,0,1,3,0,0,8,4,5,3,3,4,3,2,2,14,2
+Licenciatura en Ciencias Sociales,5,0,20,1,1,1,0,0,2,0,0,0,2,4,10,10,3,4,6,6,7,26,5
+Licenciatura en Ciencias Sociales,2,0,21,1,0,1,0,0,2,1,0,0,1,6,10,6,1,6,4,2,4,17,3
+Licenciatura en educación artística,7,1,22,1,2,1,0,0,3,3,0,0,7,8,1,1,7,7,7,6,5,32,6
+Licenciatura en educación artística,5,0,19,1,1,1,0,0,4,4,0,0,7,8,3,3,7,7,7,5,7,33,6
+Licenciatura en educación artística,6,1,21,1,2,1,0,0,3,3,0,0,5,6,2,3,7,4,5,6,6,28,5
+Licenciatura en educación artística,4,1,18,1,2,1,0,0,2,4,0,0,8,7,2,3,5,5,5,5,5,25,5
+Licenciatura en educación artística,5,0,21,1,2,1,0,0,2,3,0,0,8,8,2,1,3,6,7,5,4,25,5
+Licenciatura en educación artística,2,0,22,1,2,1,0,0,3,3,0,0,4,3,6,7,2,5,7,7,1,22,4
+Licenciatura en educación artística,2,1,21,1,2,1,0,0,2,1,0,0,3,3,6,6,6,7,3,2,4,22,4
+Licenciatura en educación artística,6,0,20,1,3,1,1,2,1,2,1,9,3,4,6,7,1,1,2,7,7,18,3
+Licenciatura en educación artística,6,1,23,3,3,1,0,0,1,2,0,0,2,1,10,9,2,2,3,6,6,19,3
+Licenciatura en educación artística,13,1,26,1,3,1,0,0,5,6,0,0,3,6,9,11,5,6,1,1,1,14,2
+Licenciatura en educación artística,12,0,25,2,3,0,1,2,1,1,1,16,0,5,10,11,4,1,2,1,1,9,1
+Licenciatura en educación artística,12,1,26,2,0,1,1,1,5,5,1,16,1,6,9,10,3,2,1,1,1,8,1
+Licenciatura en educación artística,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura en educación artística,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Licenciatura en educación artística,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Licenciatura en educación artística,4,0,19,1,1,1,0,0,2,0,0,0,5,5,5,7,3,3,3,4,2,15,3
+Licenciatura en educación artística,8,1,22,1,2,1,0,0,3,2,0,0,4,3,3,10,6,5,5,5,4,25,5
+Licenciatura en educación artística,5,0,20,1,1,1,0,0,2,1,0,0,6,8,3,3,6,6,7,7,6,32,6
+Licenciatura en educación artística,9,0,23,1,1,1,0,0,3,4,0,0,4,8,1,9,6,6,6,7,7,32,6
+Licenciatura en educación artística,4,1,18,1,0,1,0,0,3,3,0,0,4,4,2,7,3,5,2,2,6,18,3
+Licenciatura en educación artística,8,0,24,1,1,0,0,0,2,0,1,20,3,4,6,11,5,4,5,5,4,23,4
+Licenciatura en educación artística,2,0,18,1,2,1,0,0,2,1,1,16,0,8,9,11,2,3,2,3,4,14,2
+Licenciatura en educación artística,7,0,21,1,1,1,0,0,2,0,0,0,3,4,5,5,3,5,2,2,1,13,2
+Licenciatura en educación artística,2,0,17,1,1,1,0,0,2,0,0,0,0,4,10,11,5,7,5,5,5,27,5
+Licenciatura en educación artística,2,0,19,1,1,1,0,0,1,1,0,0,3,1,10,10,3,4,3,3,2,15,3
+Licenciatura en educación artística,6,0,20,1,3,1,0,0,3,3,0,0,6,6,2,7,5,7,5,6,1,24,4
+Licenciatura en educación artística,4,0,18,1,2,1,0,0,2,1,0,0,6,4,5,2,2,2,2,2,2,10,2
+Licenciatura en educación artística,3,0,19,1,1,1,0,0,2,1,0,0,9,6,3,1,6,7,3,1,1,18,3
+Licenciatura en educación artística,2,1,18,1,1,1,0,0,1,1,1,20,2,4,10,10,1,4,4,7,1,17,3
+Licenciatura en educación artística,7,1,21,1,1,0,1,0,2,1,0,0,4,1,5,7,1,1,1,1,1,5,1
+Licenciatura en educación artística,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Licenciatura en educación artística,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Licenciatura en educación artística,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Licenciatura en Educación Infantil ,5,0,19,1,1,1,0,0,3,4,0,0,6,7,3,1,7,7,6,6,6,32,6
+Licenciatura en Educación Infantil ,8,0,20,1,1,1,0,0,3,3,0,0,8,6,1,3,6,7,7,7,6,33,6
+Licenciatura en Educación Infantil ,7,0,22,1,2,1,0,0,4,4,0,0,7,9,2,3,6,7,7,7,6,33,6
+Licenciatura en Educación Infantil ,6,1,21,1,2,1,0,0,3,3,0,0,6,7,0,3,6,6,6,6,6,30,6
+Licenciatura en Educación Infantil ,6,0,18,1,2,1,0,0,4,4,0,0,8,7,3,2,6,7,7,6,5,31,6
+Licenciatura en Educación Infantil ,6,1,18,1,2,1,0,0,3,3,0,0,7,8,2,5,6,6,5,4,6,27,5
+Licenciatura en Educación Infantil ,5,1,22,1,1,1,0,0,2,3,0,0,7,8,3,1,5,6,4,4,6,25,5
+Licenciatura en Educación Infantil ,3,0,21,1,3,1,0,0,4,5,0,0,4,4,5,8,5,5,4,5,4,23,4
+Licenciatura en Educación Infantil ,13,1,15,2,3,0,1,1,5,5,1,16,0,8,8,0,3,2,1,1,2,9,1
+Licenciatura en Educación Infantil ,12,1,26,2,0,0,0,0,1,2,1,16,1,2,10,8,1,2,1,3,1,8,1
+Licenciatura en Educación Infantil ,12,1,25,2,3,1,1,1,1,0,1,16,0,5,8,8,2,1,1,2,1,7,1
+Licenciatura en Educación Infantil ,12,1,26,3,0,0,0,0,1,2,1,20,9,5,11,11,2,1,2,1,2,8,1
+Licenciatura en Educación Infantil ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Licenciatura en Educación Infantil ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Licenciatura en Educación Infantil ,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Licenciatura en Educación Infantil ,12,0,22,1,1,1,0,0,2,2,1,20,4,4,2,2,3,5,3,5,1,17,3
+Licenciatura en Educación Infantil ,3,0,21,1,2,0,0,0,1,0,1,20,7,4,10,11,2,3,1,1,6,13,2
+Licenciatura en Educación Infantil ,7,0,20,1,1,1,0,0,2,0,0,0,0,3,6,11,5,6,2,2,3,18,3
+Licenciatura en Educación Infantil ,5,0,20,1,1,1,0,0,2,1,0,0,1,3,6,6,1,4,3,1,4,13,2
+Licenciatura en Educación Infantil ,6,0,20,1,1,1,0,0,2,1,0,0,2,2,6,6,6,6,7,6,6,31,6
+Licenciatura en Educación Infantil ,9,0,26,1,1,0,1,1,4,4,1,20,9,9,6,6,7,7,7,7,7,35,6
+Licenciatura en Educación Infantil ,3,0,19,1,1,1,0,0,2,1,0,0,5,2,5,10,3,4,5,5,5,22,4
+Licenciatura en Educación Infantil ,4,0,19,1,3,1,0,0,3,4,0,0,8,8,3,3,4,7,1,3,1,16,3
+Licenciatura en Educación Infantil ,4,0,20,1,1,0,0,0,2,0,0,0,0,2,6,11,2,1,1,2,1,7,1
+Licenciatura en Educación Infantil ,11,0,27,1,1,1,0,0,2,1,0,0,4,3,10,3,3,4,5,3,2,17,3
+Licenciatura en Educación Infantil ,6,0,20,1,1,1,0,0,2,1,0,0,6,6,2,10,4,5,5,5,3,22,4
+Licenciatura en Educación Infantil ,7,0,23,1,1,1,0,0,2,1,0,0,6,6,10,3,5,5,5,4,4,23,4
+Licenciatura en Educación Infantil ,10,1,26,1,1,1,0,0,3,1,0,0,1,4,5,11,2,4,1,2,1,10,2
+Licenciatura en Educación Infantil ,12,0,25,1,1,1,1,1,1,1,1,20,2,4,10,11,3,3,3,3,3,15,3
+Licenciatura en Educación Infantil ,8,1,20,1,1,1,0,0,2,1,1,20,1,3,9,9,5,6,6,6,6,29,5
+Licenciatura en Educación Infantil ,10,0,24,1,1,1,0,0,1,0,0,0,3,4,5,10,4,5,6,5,5,25,5
+Licenciatura en Educación Infantil ,7,0,22,1,2,1,0,0,3,1,0,0,7,8,3,10,5,6,6,4,7,28,5
+Licenciatura en Educación Infantil ,3,1,19,1,1,1,0,0,2,0,0,0,4,6,5,11,3,2,3,3,2,13,2
+Licenciatura en Educación Infantil ,3,0,19,1,1,0,0,0,3,0,1,6,0,1,5,11,3,7,7,4,1,22,4
+Licenciatura en Educación Infantil ,6,1,25,1,1,1,1,1,2,1,1,20,1,3,5,10,2,5,3,3,4,17,3
+Licenciatura en Educación Infantil ,3,1,21,3,2,1,0,0,2,1,0,0,0,4,10,6,2,3,3,3,2,13,2
+Licenciatura en Educación Infantil ,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Licenciatura en Educación Infantil ,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Licenciatura en Educación Infantil ,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Licenciatura en Educación Infantil ,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Licenciatura en Educación Infantil ,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Licenciatura en Educación Infantil ,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Licenciatura en Educación Infantil ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Licenciatura en Educación Infantil ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura en Educación Infantil ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura en Educación Infantil ,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Licenciatura en Educación Infantil ,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Licenciatura en Educación Infantil ,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Licenciatura en Educación Infantil ,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Licenciatura en Educación Infantil ,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Licenciatura en Educación Infantil ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Licenciatura en Educación Infantil ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Licenciatura en Educación Infantil ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Licenciatura en Educación Infantil ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Licenciatura en Física,6,1,20,1,1,1,0,0,3,3,0,0,7,6,2,3,7,7,7,6,5,32,6
+Licenciatura en Física,11,0,25,2,3,0,0,0,5,5,0,0,0,6,9,11,1,2,2,3,4,12,2
+Licenciatura en física,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura en Física,4,0,18,1,2,1,0,0,3,1,0,0,4,4,10,6,2,5,4,5,4,20,4
+Licenciatura en Física,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Licenciatura en física,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Licenciatura en Física,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Licenciatura en física,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Licenciatura en Física,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Licenciatura en física,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Licenciatura en Física,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Licenciatura en física,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Licenciatura en Física,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Licenciatura en física,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Licenciatura en física ,4,0,19,1,1,1,0,0,3,1,0,0,1,6,3,10,4,3,4,3,3,17,3
+Licenciatura en física ,8,0,20,1,1,0,0,0,1,1,1,20,6,3,10,3,1,3,3,4,2,13,2
+Licenciatura en física ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura en física ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Licenciatura en física ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Licenciatura en física ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura en humanidades y lengua castellana,9,1,22,1,1,1,0,0,4,4,0,0,8,8,3,1,6,5,7,7,6,31,6
+Licenciatura en humanidades y lengua castellana,6,1,23,1,2,1,0,0,2,2,1,1,7,7,2,5,5,5,5,5,5,25,5
+Licenciatura en humanidades y lengua castellana,3,1,22,1,3,1,1,2,4,6,1,4,4,5,1,7,5,5,4,5,4,23,4
+Licenciatura en humanidades y lengua castellana,2,0,23,1,2,1,0,0,2,1,1,6,5,4,2,7,5,4,4,7,2,22,4
+Licenciatura en humanidades y lengua castellana,3,1,22,3,3,1,0,0,2,2,0,0,5,5,2,8,4,5,6,2,4,21,4
+Licenciatura en humanidades y lengua castellana,12,1,26,2,3,1,0,0,5,6,0,0,4,8,6,8,5,2,7,2,1,17,3
+Licenciatura en humanidades y lengua castellana,10,1,25,2,3,1,0,0,1,2,0,0,2,5,7,9,3,4,5,2,1,15,3
+Licenciatura en humanidades y lengua castellana,4,1,19,1,2,1,1,1,1,2,1,8,2,5,6,8,7,5,2,2,1,17,3
+Licenciatura en humanidades y lengua castellana,1,1,18,3,3,1,0,0,1,2,0,0,3,5,7,9,2,2,3,6,6,19,3
+Licenciatura en humanidades y lengua castellana,1,0,23,3,0,1,0,0,1,0,0,0,2,3,9,10,1,2,2,3,4,12,2
+Licenciatura en humanidades y lengua castellana,12,1,24,1,4,0,1,1,1,2,1,16,1,1,10,9,3,2,1,1,2,9,1
+Licenciatura en humanidades y lengua castellana,12,1,24,3,3,0,0,0,1,2,1,16,0,3,9,10,1,2,2,1,1,7,1
+Licenciatura en humanidades y lengua castellana,12,0,26,2,0,0,0,0,1,1,1,16,1,1,8,9,2,1,1,1,2,7,1
+Licenciatura en humanidades y lengua castellana,12,1,26,2,0,1,1,1,5,5,1,16,1,6,9,10,3,2,1,1,1,8,1
+Licenciatura en humanidades y lengua castellana,1,0,24,1,3,1,1,1,1,2,1,16,1,4,10,11,3,2,3,3,2,13,2
+Licenciatura en humanidades y lengua castellana,1,0,20,1,3,1,1,1,1,0,1,16,0,4,10,10,2,2,2,2,1,9,1
+Licenciatura en humanidades y lengua castellana,1,1,20,2,3,0,1,1,1,2,1,16,0,5,10,11,1,1,2,3,2,9,1
+Licenciatura en humanidades y lengua castellana,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Licenciatura en humanidades y lengua castellana,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Licenciatura en humanidades y lengua castellana,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Licenciatura en humanidades y lengua castellana,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Licenciatura en humanidades y lengua castellana,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Licenciatura en humanidades y lengua castellana,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura en humanidades y lengua castellana,7,0,23,1,1,0,0,0,2,0,0,0,0,4,6,11,4,2,5,6,2,19,3
+Licenciatura en humanidades y lengua castellana,8,0,21,1,2,1,0,0,1,0,0,0,1,3,5,11,2,2,3,2,1,10,2
+Licenciatura en humanidades y lengua castellana,4,0,20,1,1,1,0,0,2,1,1,20,1,4,6,6,4,5,4,4,2,19,3
+Licenciatura en humanidades y lengua castellana,4,0,26,1,0,1,0,0,3,2,0,0,7,3,5,10,1,5,3,4,2,15,3
+Licenciatura en humanidades y lengua castellana,8,0,21,1,1,1,0,0,2,1,1,16,1,4,11,10,4,5,6,2,4,21,4
+Licenciatura en humanidades y lengua castellana,1,1,20,1,1,1,0,0,2,2,1,16,1,3,6,10,4,6,5,6,6,27,5
+Licenciatura en humanidades y lengua castellana,10,0,28,1,0,1,0,0,1,1,0,0,1,1,10,11,1,2,3,3,2,11,2
+Licenciatura en humanidades y lengua castellana,10,0,22,1,0,1,0,0,1,2,0,0,4,6,2,3,6,7,7,6,5,31,6
+Licenciatura en humanidades y lengua castellana,11,0,27,3,1,0,0,0,1,0,1,20,4,4,10,10,3,2,2,3,3,13,2
+Licenciatura en humanidades y lengua castellana,6,0,20,1,1,1,0,0,2,0,0,0,8,8,3,3,2,6,4,1,3,16,3
+Licenciatura en humanidades y lengua castellana,7,0,21,1,1,1,0,0,1,2,0,0,1,9,3,10,6,6,5,5,5,27,5
+Licenciatura en humanidades y lengua castellana,2,0,17,1,1,1,0,0,2,1,0,0,1,4,5,6,5,5,5,4,4,23,4
+Licenciatura en humanidades y lengua castellana,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Licenciatura en humanidades y lengua castellana,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Licenciatura en humanidades y lengua castellana,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura en humanidades y lengua castellana,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura en humanidades y lengua castellana,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Licenciatura en humanidades y lengua castellana,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Licenciatura en inglés ,3,0,22,3,3,1,0,0,2,1,0,0,4,5,5,5,4,5,6,2,4,21,4
+Licenciatura en inglés ,3,1,22,1,3,1,0,0,2,2,0,0,5,5,5,7,2,3,4,5,6,20,4
+Licenciatura en inglés ,2,0,19,2,3,0,0,0,5,6,0,0,1,8,9,8,5,6,1,1,1,14,2
+Licenciatura en inglés ,1,0,18,2,3,0,0,0,6,6,0,0,3,8,10,0,3,1,1,2,4,11,2
+Licenciatura en inglés ,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Licenciatura en inglés ,6,0,28,1,1,1,0,0,2,1,0,0,7,3,6,11,2,3,3,3,2,13,2
+Licenciatura en inglés ,2,1,19,1,1,1,0,0,2,0,0,0,0,4,10,11,4,4,3,4,4,19,3
+Licenciatura en inglés ,2,1,18,1,1,1,0,0,1,1,0,0,2,4,10,6,4,4,4,7,3,22,4
+Licenciatura en inglés ,7,1,21,1,1,1,0,0,2,0,1,20,0,4,8,11,2,3,1,1,1,8,1
+Licenciatura en inglés ,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Licenciatura en inglés ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Licenciatura en inglés ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura en inglés ,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Licenciatura en inglés ,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Licenciatura en inglés ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura en inglés ,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Licenciatura en inglés ,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Licenciatura en inglés ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura en inglés ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura en matemáticas,5,0,22,1,2,1,0,0,3,3,0,0,8,8,2,5,3,6,7,5,4,25,5
+Licenciatura en matemáticas,6,0,21,1,1,1,0,0,2,2,1,10,6,5,3,3,7,6,5,5,5,28,5
+Licenciatura en matemáticas,2,0,22,1,2,1,0,0,4,5,0,0,5,4,6,7,4,5,4,4,4,21,4
+Licenciatura en matemáticas,3,0,17,1,4,1,1,1,1,2,1,8,3,4,6,11,3,4,3,3,4,17,3
+Licenciatura en matemáticas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Licenciatura en matemáticas,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Licenciatura en matemáticas,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Licenciatura en matemáticas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura en matemáticas,1,0,18,1,2,1,0,0,3,1,0,0,5,4,10,10,4,5,4,1,1,15,3
+Licenciatura en matemáticas,3,0,19,1,1,1,0,0,3,2,0,0,3,1,5,6,4,4,4,4,5,21,4
+Licenciatura en matemáticas,5,0,20,1,0,1,0,0,2,1,0,0,8,3,5,6,4,5,3,5,5,22,4
+Licenciatura en matemáticas,7,1,23,1,1,1,1,1,1,0,1,20,1,1,5,11,4,4,6,5,4,23,4
+Licenciatura en matemáticas,1,0,19,1,2,1,0,0,3,1,0,0,6,4,5,5,5,4,3,2,4,18,3
+Licenciatura en matemáticas,5,0,19,1,1,1,0,0,2,1,0,0,0,6,2,11,4,4,4,3,1,16,3
+Licenciatura en matemáticas,5,0,20,1,1,1,0,0,2,1,0,0,0,4,6,11,4,4,4,5,4,21,4
+Licenciatura en matemáticas,3,0,21,1,1,0,0,0,2,1,1,20,2,3,10,10,2,1,2,2,1,8,1
+Licenciatura en matemáticas,5,1,21,3,1,1,0,0,2,1,0,0,4,6,2,10,3,4,3,4,3,17,3
+Licenciatura en matemáticas,7,1,22,1,1,0,0,0,2,0,1,20,1,3,5,8,3,3,3,5,2,16,3
+Licenciatura en matemáticas,5,0,21,1,2,1,0,0,2,3,0,0,8,8,3,3,5,6,7,4,5,27,5
+Licenciatura en matemáticas,2,0,17,1,1,1,0,0,2,1,0,0,3,2,10,7,3,3,2,2,2,12,2
+Licenciatura en matemáticas,4,0,21,1,1,1,0,0,3,1,0,0,4,6,2,6,3,4,4,4,3,18,3
+Licenciatura en matemáticas,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Licenciatura en matemáticas,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Licenciatura en matemáticas,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Licenciatura en matemáticas,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Licenciatura en matemáticas,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Licenciatura en matemáticas,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura en matemáticas,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Licenciatura en matemáticas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Licenciatura en matemáticas,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Licenciatura en matemáticas,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Licenciatura en matemáticas,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Licenciatura en matemáticas,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Licenciatura en Química,8,0,21,1,1,1,0,0,4,4,0,0,7,8,0,1,5,7,6,7,7,32,6
+Licenciatura en Química,6,1,22,1,2,1,0,0,3,2,0,0,6,7,2,5,4,5,5,5,6,25,5
+Licenciatura en Química,3,0,23,1,2,1,0,0,4,5,0,0,3,5,1,7,7,6,7,2,1,23,4
+Licenciatura en Química,12,0,27,3,3,0,0,0,5,5,0,0,4,7,6,8,3,4,5,6,1,19,3
+Licenciatura en Química,6,1,19,1,3,1,1,1,6,6,1,9,3,7,7,10,2,2,3,6,6,19,3
+Licenciatura en Química,11,1,25,3,3,1,0,0,6,6,0,0,2,8,6,0,5,4,4,1,1,15,3
+Licenciatura en Química,13,0,24,3,4,0,0,0,5,6,0,0,3,8,11,9,5,3,2,2,2,14,2
+Licenciatura en Química,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura en Química,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Licenciatura en Química,10,0,26,1,1,1,0,0,2,0,1,20,4,3,5,6,3,2,3,7,4,19,3
+Licenciatura en Química,3,0,24,3,1,0,1,1,3,1,1,20,1,4,5,11,7,2,6,6,6,27,5
+Licenciatura en Química,8,1,21,3,0,1,0,0,2,0,0,0,0,4,11,11,7,7,7,7,7,35,6
+Licenciatura en Química,2,0,17,1,1,1,0,0,2,0,0,0,0,4,6,11,5,2,5,2,3,17,3
+Licenciatura en Química,4,0,19,1,1,1,0,0,1,0,0,0,6,4,2,2,6,6,6,6,6,30,6
+Licenciatura en Química,7,0,20,1,2,1,0,0,3,1,1,20,5,4,6,10,4,4,4,4,4,20,4
+Licenciatura en Química,10,0,23,1,1,1,0,0,2,1,1,10,2,2,7,8,2,4,2,4,6,18,3
+Licenciatura en Química,6,0,20,1,1,1,0,0,3,1,0,0,5,4,3,10,7,5,7,5,5,29,5
+Licenciatura en Química,4,1,19,1,1,1,0,0,1,1,0,0,1,4,10,9,3,2,4,3,1,13,2
+Licenciatura en Química,4,1,18,1,1,1,0,0,1,1,0,0,3,6,2,11,4,4,4,3,4,19,3
+Licenciatura en Química,2,1,19,1,2,1,0,0,2,2,0,0,3,4,2,6,4,5,6,5,3,23,4
+Licenciatura en Química,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Licenciatura en Química,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura en Química,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Licenciatura en Química,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Licenciatura en Química,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Licenciatura en Química,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Licenciatura en Química,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Licenciatura en Química,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Licenciatura en Química,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Licenciatura en Química,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Licenciatura en Química,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura en Química,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Licenciatura en Química,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
 Licenciatura en Química,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
 Licenciatura en Química,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
 Licenciatura en Química,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
 Licenciatura en Química,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
 Licenciatura en Química,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Tecnología en construcciones civiles,8,1,20,1,1,1,0,0,3,5,0,0,7,6,3,2,6,5,7,7,6,31,6
+Tecnología en construcciones civiles,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Tecnología en construcciones civiles,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Tecnología en construcciones civiles,10,0,21,1,1,1,0,0,2,2,1,12,7,9,6,11,4,4,4,4,3,19,3
+Tecnología en construcciones civiles,7,1,21,3,2,1,0,0,4,3,0,0,7,8,2,2,6,7,5,5,6,29,5
+Tecnología en construcciones civiles,2,1,19,1,1,1,0,0,3,1,0,0,3,6,2,10,3,3,6,7,2,21,4
+Tecnología en construcciones civiles,4,0,19,1,1,1,0,0,1,1,0,0,5,5,2,5,5,6,5,5,6,27,5
+Tecnología en construcciones civiles,1,0,19,1,0,1,0,0,2,1,0,0,4,5,2,2,5,6,4,6,4,25,5
+Tecnología en construcciones civiles,2,1,18,1,1,1,0,0,2,1,0,0,3,4,2,2,4,4,4,5,3,20,4
+Tecnología en construcciones civiles,5,0,20,1,1,1,0,0,2,1,0,0,1,6,3,10,5,7,4,5,4,25,5
+Tecnología en construcciones civiles,2,0,18,1,1,1,0,0,1,0,0,0,2,2,10,10,2,6,4,3,2,17,3
+Tecnología en construcciones civiles,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Tecnología en construcciones civiles,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Tecnología en construcciones civiles,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Tecnología en construcciones civiles,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Tecnología en construcciones civiles,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Tecnología en construcciones civiles,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Tecnología en construcciones civiles,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Tecnología en construcciones civiles,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Tecnología en electrónica,4,0,22,1,2,1,0,0,4,4,0,0,7,7,1,1,6,7,7,7,6,33,6
+Tecnología en electrónica,3,1,22,1,3,1,0,0,3,4,0,0,5,6,2,1,6,7,3,2,4,22,4
+Tecnología en electrónica,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Tecnología en electrónica,10,1,23,1,1,1,0,0,2,1,0,0,2,1,2,2,4,5,3,4,2,18,3
+Tecnología en electrónica,8,1,19,1,1,1,0,0,3,5,1,20,9,9,1,0,7,7,7,7,7,35,6
+Tecnología en electrónica,4,0,19,1,1,1,0,0,1,1,0,0,2,2,5,6,3,3,3,3,2,14,2
+Tecnología en electrónica,10,0,23,1,1,0,0,0,1,0,0,0,1,4,5,10,2,1,2,2,2,9,1
+Tecnología en electrónica,9,1,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,7,6,6,7,33,6
+Tecnología en electrónica,5,0,21,1,1,1,0,0,3,5,0,0,6,6,1,1,7,7,7,7,7,35,6
+Tecnología en electrónica,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Tecnología en electrónica,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Tecnología en electrónica,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
+Tecnología en electrónica,4,1,23,1,4,1,0,0,2,2,0,0,1,3,6,10,3,4,5,5,2,19,3
+Tecnología en electrónica,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Tecnología en electrónica,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
+Tecnología en gestión ambiental y servicios públicos ,8,1,20,1,1,1,0,0,4,5,0,0,8,7,2,3,6,5,7,7,6,31,6
+Tecnología en gestión ambiental y servicios públicos ,2,1,22,3,3,1,0,0,4,4,1,8,4,4,1,2,5,4,5,5,5,24,4
+Tecnología en gestión ambiental y servicios públicos ,7,1,19,1,1,1,0,0,3,5,0,0,7,7,2,2,6,7,7,7,7,34,6
+Tecnología en gestión ambiental y servicios públicos ,4,1,25,1,1,1,0,0,3,1,0,0,3,3,2,2,1,2,1,1,1,6,1
+Tecnología en gestión ambiental y servicios públicos ,3,0,21,1,1,1,0,0,2,1,0,0,8,8,5,10,5,5,5,4,7,26,5
+Tecnología en gestión ambiental y servicios públicos ,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Tecnología en gestión ambiental y servicios públicos ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Tecnología en gestión ambiental y servicios públicos ,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Tecnología en gestión ambiental y servicios públicos ,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Tecnología en gestión ambiental y servicios públicos ,13,1,25,2,0,0,1,1,1,1,1,20,0,1,10,0,3,1,1,1,1,7,1
+Tecnología en gestión ambiental y servicios públicos ,12,0,25,2,0,0,1,1,1,1,1,22,0,1,10,6,2,2,1,1,1,7,1
+Tecnología en gestión ambiental y servicios públicos ,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
+Tecnología en gestión ambiental y servicios públicos ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Tecnología en gestión de la producción industrial,3,1,22,3,3,1,0,0,2,3,0,0,3,3,2,1,4,4,5,4,5,22,4
+Tecnología en gestión de la producción industrial,3,0,22,3,3,1,0,0,2,3,0,0,5,6,5,5,5,4,4,7,2,22,4
+Tecnología en gestión de la producción industrial,2,0,26,3,4,1,0,0,1,2,1,16,3,3,9,8,2,4,4,2,2,14,2
+Tecnología en gestión de la producción industrial,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Tecnología en gestión de la producción industrial,14,1,27,1,1,0,0,0,2,1,1,20,0,5,8,11,5,4,6,6,4,25,5
+Tecnología en gestión de la producción industrial,3,0,20,1,1,1,0,0,3,0,1,15,5,6,10,6,5,6,6,5,5,27,5
+Tecnología en gestión de la producción industrial,3,0,20,1,2,1,0,0,2,1,0,0,1,4,2,11,2,1,2,2,1,8,1
+Tecnología en gestión de la producción industrial,7,0,22,1,1,1,0,0,3,0,0,0,2,4,5,8,3,3,3,3,3,15,3
+Tecnología en gestión de la producción industrial,1,0,18,1,1,1,0,0,1,0,0,0,4,4,5,10,2,2,2,3,3,12,2
+Tecnología en gestión de la producción industrial,3,0,20,1,1,1,0,0,2,2,1,20,4,4,6,3,5,2,5,4,5,21,4
+Tecnología en gestión de la producción industrial,3,0,19,1,1,1,0,0,3,1,0,0,3,6,5,10,6,7,7,7,6,33,6
+Tecnología en gestión de la producción industrial,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Tecnología en gestión de la producción industrial,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Tecnología en gestión de la producción industrial,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Tecnología en gestión de la producción industrial,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Tecnología en gestión de la producción industrial,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Tecnología en gestión de la producción industrial,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Tecnología en gestión de la producción industrial,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Tecnológia en levantamientos topográficos,8,1,22,1,2,1,0,0,3,2,0,0,4,3,11,10,7,6,7,6,6,32,6
+Tecnológia en levantamientos topográficos,9,1,24,1,1,1,0,0,2,1,0,0,1,1,5,10,5,4,4,5,4,22,4
+Tecnológia en levantamientos topográficos,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Tecnológia en levantamientos topográficos,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Tecnología en saneamiento ambiental,8,0,21,1,2,1,0,0,4,3,0,0,8,7,1,3,7,5,5,7,7,31,6
+Tecnología en saneamiento ambiental,6,0,22,1,2,1,0,0,4,5,0,0,9,7,3,3,6,7,7,7,6,33,6
+Tecnología en saneamiento ambiental,3,0,22,3,3,1,0,0,4,4,0,0,5,3,5,6,2,3,4,5,6,20,4
+Tecnología en saneamiento ambiental,10,1,24,3,3,1,1,1,1,2,1,12,2,2,10,10,3,4,5,2,1,15,3
+Tecnología en saneamiento ambiental,1,0,25,3,3,1,0,0,1,1,0,0,3,4,11,11,4,2,3,2,2,13,2
+Tecnología en saneamiento ambiental,13,0,26,1,3,1,1,1,1,0,1,12,0,3,9,8,2,4,3,2,2,13,2
+Tecnología en saneamiento ambiental,6,0,22,2,0,0,0,0,2,2,1,8,3,5,6,10,6,2,2,4,2,16,3
+Tecnología en saneamiento ambiental,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Tecnología en saneamiento ambiental,2,1,20,1,3,1,0,0,3,2,0,0,8,8,3,11,4,4,4,3,1,16,3
+Tecnología en saneamiento ambiental,6,0,20,1,1,1,0,0,2,1,1,20,9,4,8,3,4,5,3,4,3,19,3
+Tecnología en saneamiento ambiental,2,1,18,1,1,0,0,0,1,0,0,0,2,4,5,6,5,4,6,5,7,27,5
+Tecnología en saneamiento ambiental,5,0,20,1,2,1,0,0,3,1,0,0,3,4,5,2,2,3,2,2,3,12,2
+Tecnología en saneamiento ambiental,4,0,19,1,1,1,0,0,3,3,1,20,6,6,10,2,6,7,5,5,3,26,5
+Tecnología en saneamiento ambiental,1,1,21,1,1,1,0,0,2,1,1,6,8,6,3,3,4,5,6,5,6,26,5
+Tecnología en saneamiento ambiental,4,1,18,1,2,1,0,0,2,1,0,0,7,7,5,2,2,2,2,2,2,10,2
+Tecnología en saneamiento ambiental,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Tecnología en saneamiento ambiental,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
+Tecnología en sistematizacion de datos,5,1,21,1,1,1,0,0,4,4,0,0,7,9,1,1,5,7,6,7,7,32,6
+Tecnología en sistematizacion de datos,2,0,25,2,4,0,1,1,5,5,1,12,2,7,11,11,1,2,2,3,4,12,2
+Tecnología en sistematizacion de datos,2,0,26,3,4,1,0,0,1,2,1,16,3,3,9,8,2,4,4,2,2,14,2
+Tecnología en sistematizacion de datos,3,0,18,1,1,1,0,0,2,0,0,0,3,4,2,11,1,2,2,4,6,15,3
+Tecnología en sistematizacion de datos,7,0,21,1,1,1,0,0,1,1,0,0,2,2,7,7,6,5,5,4,3,23,4
+Tecnología en sistematizacion de datos,5,0,22,1,0,1,0,0,3,1,0,0,6,6,8,8,5,6,4,4,4,23,4
+Tecnología en sistematizacion de datos,5,0,19,1,1,1,0,0,2,1,0,0,4,4,5,10,3,4,3,3,3,16,3
+Tecnología en sistematizacion de datos,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Tecnología en sistematizacion de datos,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Tecnología en sistematizacion de datos,3,1,18,1,2,1,0,0,2,3,0,0,4,3,7,7,4,5,4,5,5,23,4
+Tecnología en sistematizacion de datos,3,0,18,1,3,1,0,0,3,3,0,0,4,4,8,8,5,4,4,4,5,22,4
 Tecnología en sistematizacion de datos,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
 Tecnología en sistematizacion de datos,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Tecnología en sistematizacion de datos,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
+Tecnología en sistematizacion de datos,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
+Tecnología industrial,9,1,21,1,2,1,0,0,4,3,0,0,6,7,3,2,7,7,7,5,7,33,6
+Tecnología industrial,5,1,18,1,2,1,0,0,2,3,0,0,5,6,2,3,5,6,6,6,5,28,5
+Tecnología industrial,3,1,18,2,3,0,0,0,6,6,0,0,5,7,7,8,6,5,4,2,1,18,3
+Tecnología industrial,1,1,20,2,3,0,1,1,1,1,1,20,0,1,10,10,3,2,1,1,2,9,1
+Tecnología industrial,12,0,24,3,0,1,0,0,6,6,0,0,9,8,9,0,2,1,1,2,1,7,1
+Tecnología industrial,2,0,21,1,1,1,0,0,2,2,0,0,4,8,3,2,5,3,5,5,3,21,4
+Tecnología industrial,5,0,20,1,1,1,0,0,2,1,0,0,3,6,10,10,5,6,6,6,6,29,5
+Tecnología industrial,7,0,21,1,1,0,0,0,1,0,0,0,0,4,5,11,4,4,4,4,1,17,3
+Tecnología industrial,4,0,18,1,1,1,0,0,2,1,0,0,3,2,6,6,2,1,2,2,1,8,1
+Tecnología industrial,3,0,20,1,1,0,0,0,2,0,0,0,6,8,11,11,4,4,4,4,2,18,3
+Tecnología industrial,8,0,20,1,1,1,0,0,4,4,0,0,8,8,3,3,7,6,6,7,7,33,6
+Tecnología industrial,9,1,20,1,1,1,0,0,4,5,0,0,8,8,3,3,7,7,6,6,7,33,6
+Tecnología industrial,4,1,22,1,1,1,0,0,2,3,0,0,5,6,3,7,5,6,6,6,6,29,5
+Tecnología industrial,6,1,18,1,1,1,0,0,3,3,0,0,6,6,3,3,6,5,5,6,6,28,5
+Tecnología industrial,4,0,23,1,2,1,0,0,3,3,0,0,6,7,5,3,6,5,5,5,5,26,5
+Tecnología industrial,6,0,18,1,2,1,0,0,3,4,0,0,7,5,7,5,5,5,5,5,5,25,5
+Tecnología industrial,4,0,18,1,3,1,0,0,3,3,0,0,3,3,5,8,5,5,5,4,4,23,4
+Tecnología industrial,10,1,24,2,2,0,0,0,2,2,1,24,3,4,5,9,5,5,5,5,4,24,4
+Tecnología industrial,1,0,18,1,4,1,0,0,5,6,0,0,9,1,10,11,1,4,1,1,1,8,1
+Tecnología industrial,1,1,23,3,0,0,1,1,1,1,1,12,1,1,9,0,1,2,2,1,2,8,1
+Tecnología industrial,4,0,23,3,0,1,0,0,1,1,0,0,5,1,10,6,4,5,6,2,2,19,3
+Tecnología industrial,12,1,22,2,0,0,0,0,1,1,1,12,1,1,10,6,1,5,3,4,5,18,3
 Tecnología industrial,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
 Tecnología industrial,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
 Tecnología industrial,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
 Tecnología industrial,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Tecnología en electrónica,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Tecnología en electrónica,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Tecnología en gestión ambiental y servicios públicos ,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Tecnología en gestión ambiental y servicios públicos ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Ingeniería industrial,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Ingeniería industrial,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Ingeniería mecánica,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Ingeniería producción ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Ingeniería Sanitaria ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Ingeniería Sanitaria ,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Ingeniería industrial,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Ingeniería mecánica,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Licenciatura en educación artística,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Licenciatura en educación artística,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Licenciatura en educación artística,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Licenciatura en Educación Infantil ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Licenciatura en Educación Infantil ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Ingeniería topográfica,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Ingeniería topográfica,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Licenciatura  en Biología ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Licenciatura  en Biología ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Licenciatura en matemáticas,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Licenciatura en matemáticas,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Licenciatura en Educación Infantil ,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Licenciatura en Educación Infantil ,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Licenciatura en Física,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Licenciatura en física,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Ingeniería topográfica,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Ingeniería topográfica,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
-Licenciatura  en Biología ,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
-Licenciatura  en Biología ,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Tecnología en sistematizacion de datos,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
-Tecnología en sistematizacion de datos,1,1,18,1,3,1,0,0,2,2,0,0,0,1,9,9,2,2,2,4,3,13,2
 Tecnología industrial,13,0,25,2,0,0,0,0,1,0,1,12,1,2,10,9,3,3,4,2,2,14,2
 Tecnología industrial,12,1,25,3,0,0,1,2,1,1,1,25,2,1,10,10,6,1,1,3,2,13,2
-Tecnología en gestión de la producción industrial,10,0,24,1,3,1,0,0,2,1,1,12,0,0,11,11,1,1,1,5,4,12,2
